@@ -3,9 +3,11 @@ I was briefed about project and I learned that I am going to bascally make games
  I was also brief of what things I will be using:
  * Unity 3D
  * Visual studio
- * MIDI Code
+ * MIDI Code(Music Generation)
  * Leap Motion Control(Input device)
+
+For now I will do research on the software
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQ5MjY1NTksNTc0OTMxNTQyLDU3MT
-gxNTM3N119
+eyJoaXN0b3J5IjpbNTc3MzM4MTQyLDU3NDkzMTU0Miw1NzE4MT
+UzNzddfQ==
 -->
