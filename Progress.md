@@ -6,8 +6,8 @@ I was briefed about project and I learned that I am going to bascally make games
  * MIDI Code(Music Generation)
  * Leap Motion Control(Input device)
 
-For now I will do research on the software
+For this week, I will do research and also meet with my seniors who have worked on the project before to make sure that I 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3MzM4MTQyLDU3NDkzMTU0Miw1NzE4MT
-UzNzddfQ==
+eyJoaXN0b3J5IjpbLTExNjMwNzAyNjcsNTc0OTMxNTQyLDU3MT
+gxNTM3N119
 -->
