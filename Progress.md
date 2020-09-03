@@ -8,8 +8,8 @@ I learned about the things I am going to be using for the project:
 * Visual studio
 * Leap motion control(Input movement device)
 
-
+https://www.youtube.com/watch?v=_V3fd1Pwd_4&list=PLsAzinEPgS3QmNnEQ-uzNmQs6W9f14OXJ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTgyMDE1MywxMDE2OTUxMzYyLC0zMz
-I0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbNTcxODE1Mzc3LDE2MzU4MjAxNTMsMTAxNj
+k1MTM2MiwtMzMyNDU1MzYzXX0=
 -->
