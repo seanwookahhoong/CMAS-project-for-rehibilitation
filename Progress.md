@@ -7,7 +7,9 @@ I was briefed about project and I learned that I am going to bascally make games
  * Leap Motion Control(Input device)
 
 For this week, I will do research and also meet with my seniors who have worked on the project before to make sure that I am able to get their vision for this project, which is nessesary for its completion and excellence
+
+New ideas: diffic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzOTc0NCw1NzQ5MzE1NDIsNTcxODE1Mz
-c3XX0=
+eyJoaXN0b3J5IjpbMTAzMjM5OTcwMyw0NjM5NzQ0LDU3NDkzMT
+U0Miw1NzE4MTUzNzddfQ==
 -->
