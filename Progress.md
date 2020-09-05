@@ -10,7 +10,9 @@ For this week, I will do research and also meet with my seniors who have worked 
 
 stuff to work on: glitches, bigger balls, augmented reality, weight of the ball, the meaning behind the score
 New ideas: difficulty levels, 
+
+# Week 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDg1NjgyNDgsNDYzOTc0NCw1NzQ5Mz
-E1NDIsNTcxODE1Mzc3XX0=
+eyJoaXN0b3J5IjpbMTIzNjE1NjMyMiwtMTk0ODU2ODI0OCw0Nj
+M5NzQ0LDU3NDkzMTU0Miw1NzE4MTUzNzddfQ==
 -->
