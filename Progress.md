@@ -9,13 +9,13 @@ I was briefed about the project and I learned that I am going to make games and 
 For this week, I will do research and also meet with my seniors who have worked on the project before to make sure that I can get their vision for this project, which is necessary for its completion and excellence
 
 ### Senior meeting
-I met my senior yesterday who worked on the project the last semester. He briefed me about the progess of the project and what I have to do. He told me that there were two games for the project. One game was completed but another game was not
+I met my senior yesterday who worked on the project the last semester. He briefed me about the progess of the project and what I have to do. He told me that there were two games for the project. The first game was completed but second was not. Thus, my FYP for this sem
 
 stuff to work on: glitches, bigger balls, augmented reality, the weight of the ball, the meaning behind the score
 New ideas: difficulty levels, 
 
 # Week 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5NTk5OTYwLC0xOTQ4NTY4MjQ4LDQ2Mz
-k3NDQsNTc0OTMxNTQyLDU3MTgxNTM3N119
+eyJoaXN0b3J5IjpbMTMzNzQ0NTcwNSwtMTk0ODU2ODI0OCw0Nj
+M5NzQ0LDU3NDkzMTU0Miw1NzE4MTUzNzddfQ==
 -->
