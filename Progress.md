@@ -15,16 +15,18 @@ These are the problems:
 	* The ball would glitch out of the game when hands are in the air(Ball doesn't respawn during this)
 
 * Ball
-	* 
+	* Bigger
+	* Add weight
 
-*
+* General
+* 
 
 stuff to work on: glitches, bigger balls, augmented reality, the weight of the ball, the meaning behind the score
 New ideas: difficulty levels, 
 
 # Week 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NjM4NDg0MCwtMjAwNTY3NTM4MSwtMT
-k0ODU2ODI0OCw0NjM5NzQ0LDU3NDkzMTU0Miw1NzE4MTUzNzdd
-fQ==
+eyJoaXN0b3J5IjpbOTkxMzk1MDA1LC0yMDA1Njc1MzgxLC0xOT
+Q4NTY4MjQ4LDQ2Mzk3NDQsNTc0OTMxNTQyLDU3MTgxNTM3N119
+
 -->
