@@ -1,5 +1,5 @@
 # Week 0
-I was briefed about project and I learned that I am going to bascally make games and inprove on exsisting ones that  my seniors have already made for my Final year project.
+I was briefed about project and I learned that I am going to bascally make games and inprove on existing ones that  my seniors have already made for my Final year project.
  I was also brief of what things I will be using:
  * Unity 3D
  * Visual studio
@@ -13,6 +13,6 @@ New ideas: difficulty levels,
 
 # Week 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjE1NjMyMiwtMTk0ODU2ODI0OCw0Nj
-M5NzQ0LDU3NDkzMTU0Miw1NzE4MTUzNzddfQ==
+eyJoaXN0b3J5IjpbMzQxMjU3NzU3LC0xOTQ4NTY4MjQ4LDQ2Mz
+k3NDQsNTc0OTMxNTQyLDU3MTgxNTM3N119
 -->
