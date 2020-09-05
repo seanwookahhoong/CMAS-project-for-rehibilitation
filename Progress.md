@@ -19,14 +19,15 @@ These are the problems:
 	* Add weight
 
 * General
-* 
+	* Make the game more fun
+	* Place meaning behind the scoreboard
+	* Add difficulty levels
 
-stuff to work on: glitches, bigger balls, augmented reality, the weight of the ball, the meaning behind the score
-New ideas: difficulty levels, 
+, 
 
 # Week 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxMzk1MDA1LC0yMDA1Njc1MzgxLC0xOT
+eyJoaXN0b3J5IjpbODYxOTAwMzExLC0yMDA1Njc1MzgxLC0xOT
 Q4NTY4MjQ4LDQ2Mzk3NDQsNTc0OTMxNTQyLDU3MTgxNTM3N119
 
 -->
