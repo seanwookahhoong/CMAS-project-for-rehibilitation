@@ -12,13 +12,13 @@ For this week, I will do research and also meet with my seniors who have worked 
 I met my senior yesterday who worked on the project the last semester. He briefed me about the progess of the project and what I have to do. He told me that there were two games for the project. The first game was completed but second was not. Thus, my FYP for this semester is to fix the problems of the second game.
 These are the problems:
 * Glitches
-	* The ball would glitch out of the game when hands 
+	* The ball would glitch out of the game when hands ar in a 
 
 stuff to work on: glitches, bigger balls, augmented reality, the weight of the ball, the meaning behind the score
 New ideas: difficulty levels, 
 
 # Week 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Mzc1MzkyMCwtMTk0ODU2ODI0OCw0Nj
-M5NzQ0LDU3NDkzMTU0Miw1NzE4MTUzNzddfQ==
+eyJoaXN0b3J5IjpbLTIwMDU2NzUzODEsLTE5NDg1NjgyNDgsND
+YzOTc0NCw1NzQ5MzE1NDIsNTcxODE1Mzc3XX0=
 -->
