@@ -20,14 +20,14 @@ These are the problems:
 
 * General
 	* Make the game more fun
-	* Place meaningthe score
- Add difficulty levels
+	* Scoreboard have purpose
+	* Add difficulty levels
 
 
 # Week 1
-d
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1Mzg3OTcxLC0yMDA1Njc1MzgxLC0xOT
-Q4NTY4MjQ4LDQ2Mzk3NDQsNTc0OTMxNTQyLDU3MTgxNTM3N119
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY1ODY0OTU1MiwtMjAwNTY3NTM4MSwtMT
+k0ODU2ODI0OCw0NjM5NzQ0LDU3NDkzMTU0Miw1NzE4MTUzNzdd
+fQ==
 -->
