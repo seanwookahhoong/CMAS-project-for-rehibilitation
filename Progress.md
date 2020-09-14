@@ -14,7 +14,7 @@ These are the problems:
 * Glitches
 	* The ball would glitch out of the game when hands are in the air(Ball doesn't respawn during this)
 
-* Ball
+* Ball       
 	* Bigger
 	* Add weight
 
@@ -27,7 +27,7 @@ hello i'm twsting this documentation and you  are supposed to have cert
 # Week 1
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzE3MDAyNTUsLTY1ODY0OTU1MiwtMj
-AwNTY3NTM4MSwtMTk0ODU2ODI0OCw0NjM5NzQ0LDU3NDkzMTU0
-Miw1NzE4MTUzNzddfQ==
+eyJoaXN0b3J5IjpbLTg4MzY0MDEsLTE0NzE3MDAyNTUsLTY1OD
+Y0OTU1MiwtMjAwNTY3NTM4MSwtMTk0ODU2ODI0OCw0NjM5NzQ0
+LDU3NDkzMTU0Miw1NzE4MTUzNzddfQ==
 -->
