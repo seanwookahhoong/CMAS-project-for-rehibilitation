@@ -23,11 +23,11 @@ These are the problems:
 	* Scoreboard have purpose
 	* Add difficulty levels
 
-
+hello i'm twsting this documentation and you  are supposed to have cert
 # Week 1
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODY0OTU1MiwtMjAwNTY3NTM4MSwtMT
-k0ODU2ODI0OCw0NjM5NzQ0LDU3NDkzMTU0Miw1NzE4MTUzNzdd
-fQ==
+eyJoaXN0b3J5IjpbLTE0NzE3MDAyNTUsLTY1ODY0OTU1MiwtMj
+AwNTY3NTM4MSwtMTk0ODU2ODI0OCw0NjM5NzQ0LDU3NDkzMTU0
+Miw1NzE4MTUzNzddfQ==
 -->
