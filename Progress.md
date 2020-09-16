@@ -25,9 +25,9 @@ These are the problems:
 
 hello i'm twsting this documentation and you  are supposed to have cert
 # Week 1
-I was tasked by my lecturer to do certian thing. To make a piano in unity in about two weeks time, knowing my first ever task on this project. I made my stride
+I was tasked by my lecturer to do certian thing. To make a piano with 5 keys that plays a note in Midi code in about two weeks time, knowing my first ever task on this project. I went to research about how to make the piano.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTE4MDkyMTAsLTg4MzY0MDEsLTE0Nz
-E3MDAyNTUsLTY1ODY0OTU1MiwtMjAwNTY3NTM4MSwtMTk0ODU2
-ODI0OCw0NjM5NzQ0LDU3NDkzMTU0Miw1NzE4MTUzNzddfQ==
+eyJoaXN0b3J5IjpbLTk3OTIyMjU3NywtODgzNjQwMSwtMTQ3MT
+cwMDI1NSwtNjU4NjQ5NTUyLC0yMDA1Njc1MzgxLC0xOTQ4NTY4
+MjQ4LDQ2Mzk3NDQsNTc0OTMxNTQyLDU3MTgxNTM3N119
 -->
