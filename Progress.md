@@ -28,9 +28,11 @@ hello i'm twsting this documentation and you  are supposed to have cert
 I was tasked by my lecturer to do certian thing. To make a piano with 5 keys that plays a note in Midi code in about two weeks time, knowing my first ever task on this project. I went to research about how to make the piano.
 
 puzzle game with music using brain wave
+
+AI intergration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODI1NDA0NywtOTc5MjIyNTc3LC04OD
-M2NDAxLC0xNDcxNzAwMjU1LC02NTg2NDk1NTIsLTIwMDU2NzUz
-ODEsLTE5NDg1NjgyNDgsNDYzOTc0NCw1NzQ5MzE1NDIsNTcxOD
-E1Mzc3XX0=
+eyJoaXN0b3J5IjpbLTE2NjkzMjM0MDcsLTQ0ODI1NDA0NywtOT
+c5MjIyNTc3LC04ODM2NDAxLC0xNDcxNzAwMjU1LC02NTg2NDk1
+NTIsLTIwMDU2NzUzODEsLTE5NDg1NjgyNDgsNDYzOTc0NCw1Nz
+Q5MzE1NDIsNTcxODE1Mzc3XX0=
 -->
