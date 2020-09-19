@@ -28,12 +28,11 @@ hello i'm twsting this documentation and you  are supposed to have cert
 I was tasked by my lecturer to do certian thing. To make a piano with 3-5 keys that plays a note in Midi code in about two weeks time, knowing my first ever task on this project. I went to research about how to make the piano.
 
 Even though this first week I have been busy with another project(TIP), I have downloaded the needed software that is needed for the project.
-
-
+Here are the software: 
 
 AI intergration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwNjIzMjkwLDk0MDYzOTMyOSwxMzI2NT
+eyJoaXN0b3J5IjpbLTEwMzM5Mjk2LDk0MDYzOTMyOSwxMzI2NT
 AxNzU0LC0xNjY5MzIzNDA3LC00NDgyNTQwNDcsLTk3OTIyMjU3
 NywtODgzNjQwMSwtMTQ3MTcwMDI1NSwtNjU4NjQ5NTUyLC0yMD
 A1Njc1MzgxLC0xOTQ4NTY4MjQ4LDQ2Mzk3NDQsNTc0OTMxNTQy
