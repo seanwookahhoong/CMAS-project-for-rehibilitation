@@ -25,14 +25,14 @@ These are the problems:
 
 hello i'm twsting this documentation and you  are supposed to have cert
 # Week 1
-I was tasked by my lecturer to do certian thing. To make a piano with 5 keys that plays a note in Midi code in about two weeks time, knowing my first ever task on this project. I went to research about how to make the piano.
+I was tasked by my lecturer to do certian thing. To make a piano with 3-5 keys that plays a note in Midi code in about two weeks time, knowing my first ever task on this project. I went to research about how to make the piano.
 
-puzzle game with music using brain wave
+Even though this first week 
 
 AI intergration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjkzMjM0MDcsLTQ0ODI1NDA0NywtOT
-c5MjIyNTc3LC04ODM2NDAxLC0xNDcxNzAwMjU1LC02NTg2NDk1
-NTIsLTIwMDU2NzUzODEsLTE5NDg1NjgyNDgsNDYzOTc0NCw1Nz
-Q5MzE1NDIsNTcxODE1Mzc3XX0=
+eyJoaXN0b3J5IjpbMTI0ODAyMjIzNCwtMTY2OTMyMzQwNywtND
+Q4MjU0MDQ3LC05NzkyMjI1NzcsLTg4MzY0MDEsLTE0NzE3MDAy
+NTUsLTY1ODY0OTU1MiwtMjAwNTY3NTM4MSwtMTk0ODU2ODI0OC
+w0NjM5NzQ0LDU3NDkzMTU0Miw1NzE4MTUzNzddfQ==
 -->
