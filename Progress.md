@@ -27,13 +27,15 @@ hello i'm twsting this documentation and you  are supposed to have cert
 # Week 1
 I was tasked by my lecturer to do certian thing. To make a piano with 3-5 keys that plays a note in Midi code in about two weeks time, knowing my first ever task on this project. I went to research about how to make the piano.
 
-Even though this first week I have been busy with another project(TIP), I have downloaded the needed software that is needed for the proje
+Even though this first week I have been busy with another project(TIP), I have downloaded the needed software that is needed for the project.
+
+
 
 AI intergration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjE5MDM5MSw5NDA2MzkzMjksMTMyNj
-UwMTc1NCwtMTY2OTMyMzQwNywtNDQ4MjU0MDQ3LC05NzkyMjI1
-NzcsLTg4MzY0MDEsLTE0NzE3MDAyNTUsLTY1ODY0OTU1MiwtMj
-AwNTY3NTM4MSwtMTk0ODU2ODI0OCw0NjM5NzQ0LDU3NDkzMTU0
-Miw1NzE4MTUzNzddfQ==
+eyJoaXN0b3J5IjpbNzUwNjIzMjkwLDk0MDYzOTMyOSwxMzI2NT
+AxNzU0LC0xNjY5MzIzNDA3LC00NDgyNTQwNDcsLTk3OTIyMjU3
+NywtODgzNjQwMSwtMTQ3MTcwMDI1NSwtNjU4NjQ5NTUyLC0yMD
+A1Njc1MzgxLC0xOTQ4NTY4MjQ4LDQ2Mzk3NDQsNTc0OTMxNTQy
+LDU3MTgxNTM3N119
 -->
