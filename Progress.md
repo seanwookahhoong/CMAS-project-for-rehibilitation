@@ -25,7 +25,7 @@ These are the problems:
 
 hello i'm twsting this documentation and you  are supposed to have cert
 # Week 1
-I was tasked by my lecturer to do certian thing. To make a piano with 3-5 keys that plays a note in Midi code in about two weeks time, knowing my first ever task on this project. I went to research about how to make the piano.
+I was tasked by my lecturer to do certain thing. To make a piano with 3-5 keys that plays a note in Midi code in about two weeks time, knowing my first ever task on this project. I went to research about how to make the piano.
 
 Even though this first week I have been busy with another project(TIP), I have downloaded the needed software that is needed for the project.
 Here is what you need to do to your compuuter for set-up to be able to develop games on unity with the leap motion controller
@@ -36,9 +36,9 @@ Step 1: Download visual studio
 
 AI intergration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyMzMxMzU1LDk0MDYzOTMyOSwxMzI2NT
-AxNzU0LC0xNjY5MzIzNDA3LC00NDgyNTQwNDcsLTk3OTIyMjU3
-NywtODgzNjQwMSwtMTQ3MTcwMDI1NSwtNjU4NjQ5NTUyLC0yMD
-A1Njc1MzgxLC0xOTQ4NTY4MjQ4LDQ2Mzk3NDQsNTc0OTMxNTQy
-LDU3MTgxNTM3N119
+eyJoaXN0b3J5IjpbLTEyMjAxNjQ3ODksNDcyMzMxMzU1LDk0MD
+YzOTMyOSwxMzI2NTAxNzU0LC0xNjY5MzIzNDA3LC00NDgyNTQw
+NDcsLTk3OTIyMjU3NywtODgzNjQwMSwtMTQ3MTcwMDI1NSwtNj
+U4NjQ5NTUyLC0yMDA1Njc1MzgxLC0xOTQ4NTY4MjQ4LDQ2Mzk3
+NDQsNTc0OTMxNTQyLDU3MTgxNTM3N119
 -->
