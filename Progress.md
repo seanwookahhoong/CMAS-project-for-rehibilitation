@@ -1,7 +1,7 @@
 # Week 0
 I was briefed about the project and I learned that I am going to make games and improve on existing ones that my seniors have already made for my Final year project.
  I was also briefed of what things I will be using:
- * Unity 3D
+ * [Unity 3D](https://unity3d.com/get-unity/download/archive)
  * Visual studio
  * MIDI Code(Music Generation)
  * Leap Motion Control(Input device)
@@ -36,9 +36,9 @@ Step 1: Download visual studio
 
 AI intergration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjAxNjQ3ODksNDcyMzMxMzU1LDk0MD
-YzOTMyOSwxMzI2NTAxNzU0LC0xNjY5MzIzNDA3LC00NDgyNTQw
-NDcsLTk3OTIyMjU3NywtODgzNjQwMSwtMTQ3MTcwMDI1NSwtNj
-U4NjQ5NTUyLC0yMDA1Njc1MzgxLC0xOTQ4NTY4MjQ4LDQ2Mzk3
-NDQsNTc0OTMxNTQyLDU3MTgxNTM3N119
+eyJoaXN0b3J5IjpbLTEyODMwODk3NTUsLTEyMjAxNjQ3ODksND
+cyMzMxMzU1LDk0MDYzOTMyOSwxMzI2NTAxNzU0LC0xNjY5MzIz
+NDA3LC00NDgyNTQwNDcsLTk3OTIyMjU3NywtODgzNjQwMSwtMT
+Q3MTcwMDI1NSwtNjU4NjQ5NTUyLC0yMDA1Njc1MzgxLC0xOTQ4
+NTY4MjQ4LDQ2Mzk3NDQsNTc0OTMxNTQyLDU3MTgxNTM3N119
 -->
