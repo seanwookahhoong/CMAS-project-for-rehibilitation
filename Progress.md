@@ -31,19 +31,20 @@ I was tasked by my lecturer to do certain thing. To make a piano with 3-5 keys t
 Even though this first week I have been busy with another project(TIP), I have downloaded the needed software that is needed for the project.
 
 Here is what you need to do to your compuuter for set-up to be able to develop games on unity with the leap motion controller
+## Download procedure
 
-
-Step 1: Download 
+#### Step 1: Download unity
+First, go to [this website](https://unity3d.com/get-unity/download/archive) and download 
 
 
 (https://developer.leapmotion.com/sdk-leap-motion-controller/)
 
 AI intergration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NzI1ODc0OSwtMTI4MzA4OTc1NSwtMT
-IyMDE2NDc4OSw0NzIzMzEzNTUsOTQwNjM5MzI5LDEzMjY1MDE3
-NTQsLTE2NjkzMjM0MDcsLTQ0ODI1NDA0NywtOTc5MjIyNTc3LC
-04ODM2NDAxLC0xNDcxNzAwMjU1LC02NTg2NDk1NTIsLTIwMDU2
-NzUzODEsLTE5NDg1NjgyNDgsNDYzOTc0NCw1NzQ5MzE1NDIsNT
-cxODE1Mzc3XX0=
+eyJoaXN0b3J5IjpbLTE4MzE5MzExNDQsLTEyODMwODk3NTUsLT
+EyMjAxNjQ3ODksNDcyMzMxMzU1LDk0MDYzOTMyOSwxMzI2NTAx
+NzU0LC0xNjY5MzIzNDA3LC00NDgyNTQwNDcsLTk3OTIyMjU3Ny
+wtODgzNjQwMSwtMTQ3MTcwMDI1NSwtNjU4NjQ5NTUyLC0yMDA1
+Njc1MzgxLC0xOTQ4NTY4MjQ4LDQ2Mzk3NDQsNTc0OTMxNTQyLD
+U3MTgxNTM3N119
 -->
