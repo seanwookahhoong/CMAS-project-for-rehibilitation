@@ -23,7 +23,9 @@ These are the problems:
 	* Make scoreboard have purpose
 	* Add difficulty levels
 	* Make ball easier to pick up
-
+* Possible areas to explore
+	* AR applications
+	* 
 
 He also taught me how to set up my computer for the project, here's how he did it
 ## Download procedure
@@ -51,10 +53,10 @@ AI intergration
 
 ## Engineering rehibilitation 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQ2NTEyNTgsLTEyODMwODk3NTUsLT
-EyMjAxNjQ3ODksNDcyMzMxMzU1LDk0MDYzOTMyOSwxMzI2NTAx
-NzU0LC0xNjY5MzIzNDA3LC00NDgyNTQwNDcsLTk3OTIyMjU3Ny
-wtODgzNjQwMSwtMTQ3MTcwMDI1NSwtNjU4NjQ5NTUyLC0yMDA1
-Njc1MzgxLC0xOTQ4NTY4MjQ4LDQ2Mzk3NDQsNTc0OTMxNTQyLD
-U3MTgxNTM3N119
+eyJoaXN0b3J5IjpbODkwNDkwNzc1LC0xMjgzMDg5NzU1LC0xMj
+IwMTY0Nzg5LDQ3MjMzMTM1NSw5NDA2MzkzMjksMTMyNjUwMTc1
+NCwtMTY2OTMyMzQwNywtNDQ4MjU0MDQ3LC05NzkyMjI1NzcsLT
+g4MzY0MDEsLTE0NzE3MDAyNTUsLTY1ODY0OTU1MiwtMjAwNTY3
+NTM4MSwtMTk0ODU2ODI0OCw0NjM5NzQ0LDU3NDkzMTU0Miw1Nz
+E4MTUzNzddfQ==
 -->
