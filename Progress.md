@@ -19,7 +19,7 @@ These are the problems:
 	* Add weight
 
 * General
-	* Make the game more fun
+	* Make the game more engaging
 	* Make scoreboard have purpose
 	* Add difficulty levels
 	* Make ball easier to pick up
@@ -37,10 +37,10 @@ Step 1: Download visual studio
 
 AI intergration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzAxOTc2OCwtMTI4MzA4OTc1NSwtMT
-IyMDE2NDc4OSw0NzIzMzEzNTUsOTQwNjM5MzI5LDEzMjY1MDE3
-NTQsLTE2NjkzMjM0MDcsLTQ0ODI1NDA0NywtOTc5MjIyNTc3LC
-04ODM2NDAxLC0xNDcxNzAwMjU1LC02NTg2NDk1NTIsLTIwMDU2
-NzUzODEsLTE5NDg1NjgyNDgsNDYzOTc0NCw1NzQ5MzE1NDIsNT
-cxODE1Mzc3XX0=
+eyJoaXN0b3J5IjpbODEwODMwODQ3LC0xMjgzMDg5NzU1LC0xMj
+IwMTY0Nzg5LDQ3MjMzMTM1NSw5NDA2MzkzMjksMTMyNjUwMTc1
+NCwtMTY2OTMyMzQwNywtNDQ4MjU0MDQ3LC05NzkyMjI1NzcsLT
+g4MzY0MDEsLTE0NzE3MDAyNTUsLTY1ODY0OTU1MiwtMjAwNTY3
+NTM4MSwtMTk0ODU2ODI0OCw0NjM5NzQ0LDU3NDkzMTU0Miw1Nz
+E4MTUzNzddfQ==
 -->
