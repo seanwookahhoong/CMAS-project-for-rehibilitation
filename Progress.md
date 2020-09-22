@@ -25,6 +25,7 @@ These are the problems:
 	* Make ball easier to pick up
 * Possible areas to explore
 	* AR applications
+	* AI intergration
 	* 
 
 He also taught me how to set up my computer for the project, here's how he did it
@@ -44,16 +45,13 @@ I was tasked by my lecturer to do to two things
 1. To make a piano with 3-5 keys that plays a note in Midi code in about two weeks time, knowing my first ever task on this project. I went to research about how to make the piano.
 2. Discuss with the other engineering rehibilitaion people how to make a rehibilitation course with our products
 
-I have been busy with a project called TIP in the first week and thus I was able to work on the piano only in week two. Though I was able to discuss about the project with my team and  
+I have been busy with a project called TIP in the first week and thus I was able to work on the piano only in week two. Though I was able to discuss about the project with the ER(engineering rehibil people)
 
 Here is what you need to do to your compuuter for set-up to be able to develop games on unity with the leap motion controller
 
-
-AI intergration
-
 ## Engineering rehibilitation 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwNDkwNzc1LC0xMjgzMDg5NzU1LC0xMj
+eyJoaXN0b3J5IjpbLTQyNDEwNTczLC0xMjgzMDg5NzU1LC0xMj
 IwMTY0Nzg5LDQ3MjMzMTM1NSw5NDA2MzkzMjksMTMyNjUwMTc1
 NCwtMTY2OTMyMzQwNywtNDQ4MjU0MDQ3LC05NzkyMjI1NzcsLT
 g4MzY0MDEsLTE0NzE3MDAyNTUsLTY1ODY0OTU1MiwtMjAwNTY3
