@@ -10,14 +10,10 @@
 [tutorial of Leap motion](https://www.youtube.com/watch?v=8KeZxfPh8TE)
 [another tutorial](https://www.youtube.com/watch?v=jWwQ_7UxppA)
 
-2.https://www.youtube.com/watch?v=bkE1YSSdOLU
-
-3.https://www.codeguru.com/columns/dotnet/making-music-with-midi-and-c.html
-
-4.https://docs.unity3d.com/Manual/index.html
-### Pervious student work
+### Other important links
+[Midi code](https://www.codeguru.com/columns/dotnet/making-music-with-midi-and-c.html)
 [here](https://drive.google.com/drive/folders/1G3yX97uWJPtvhVz62lgR_tYzSzVu4q5q?usp=sharing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk5ODA2Niw3NzUyMDY3MTUsMjkyNj
-E3ODE3LDE4NDIwNTgzMTcsMTQzMDczMDcxOF19
+eyJoaXN0b3J5IjpbLTE3Nzg5OTQzMzIsNzc1MjA2NzE1LDI5Mj
+YxNzgxNywxODQyMDU4MzE3LDE0MzA3MzA3MThdfQ==
 -->
