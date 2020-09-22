@@ -12,7 +12,7 @@ For this week, I will do research and also meet with my seniors who have worked 
 I met my senior yesterday who worked on the project the last semester. He briefed me about the progess of the project and what I have to do. He told me that there were two games for the project. The first game was completed but second was not. Thus, my FYP for this semester is to fix the problems of the second game.
 These are the problems:
 * Glitches
-	* The ball would glitch out of the game when hands are in the air(Ball doesn't respawn during this) --> probably causedny te
+	* The ball would glitch out of the game when hands are in the air(Ball doesn't respawn during this) --> probably caused by the hands and when they suddenly appear it creates space thus getting more and more
 
 * Ball       
 	* Bigger
@@ -36,10 +36,10 @@ Step 1: Download visual studio
 
 AI intergration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NDI4NjkwOSwtMTI4MzA4OTc1NSwtMT
-IyMDE2NDc4OSw0NzIzMzEzNTUsOTQwNjM5MzI5LDEzMjY1MDE3
-NTQsLTE2NjkzMjM0MDcsLTQ0ODI1NDA0NywtOTc5MjIyNTc3LC
-04ODM2NDAxLC0xNDcxNzAwMjU1LC02NTg2NDk1NTIsLTIwMDU2
-NzUzODEsLTE5NDg1NjgyNDgsNDYzOTc0NCw1NzQ5MzE1NDIsNT
-cxODE1Mzc3XX0=
+eyJoaXN0b3J5IjpbLTIxMTY0MDE5NTAsLTEyODMwODk3NTUsLT
+EyMjAxNjQ3ODksNDcyMzMxMzU1LDk0MDYzOTMyOSwxMzI2NTAx
+NzU0LC0xNjY5MzIzNDA3LC00NDgyNTQwNDcsLTk3OTIyMjU3Ny
+wtODgzNjQwMSwtMTQ3MTcwMDI1NSwtNjU4NjQ5NTUyLC0yMDA1
+Njc1MzgxLC0xOTQ4NTY4MjQ4LDQ2Mzk3NDQsNTc0OTMxNTQyLD
+U3MTgxNTM3N119
 -->
