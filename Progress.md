@@ -36,14 +36,17 @@ Here is what you need to do to your compuuter for set-up to be able to develop g
 #### Step 1: Download relevant software
 First, go to [this website](https://unity3d.com/get-unity/download/archive) and download this version(Unity 2018.4.18). If you haven't download unity before, download it though your operating system
 
-Then, to go the [leap motion SDK webiste](https://developer.leapmotion.com/sdk-leap-motion-controller/) and down
+Then, to go the [leap motion SDK webiste](https://developer.leapmotion.com/sdk-leap-motion-controller/) and download for you relevant OS system
+
+#### Step 2: unzip file and install unity
+Now, afte you have installed the folder, 
 
 AI intergration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzc1Mzk3OTgsLTEyODMwODk3NTUsLT
-EyMjAxNjQ3ODksNDcyMzMxMzU1LDk0MDYzOTMyOSwxMzI2NTAx
-NzU0LC0xNjY5MzIzNDA3LC00NDgyNTQwNDcsLTk3OTIyMjU3Ny
-wtODgzNjQwMSwtMTQ3MTcwMDI1NSwtNjU4NjQ5NTUyLC0yMDA1
-Njc1MzgxLC0xOTQ4NTY4MjQ4LDQ2Mzk3NDQsNTc0OTMxNTQyLD
-U3MTgxNTM3N119
+eyJoaXN0b3J5IjpbMTU5MzA4NzY4MSwtMTI4MzA4OTc1NSwtMT
+IyMDE2NDc4OSw0NzIzMzEzNTUsOTQwNjM5MzI5LDEzMjY1MDE3
+NTQsLTE2NjkzMjM0MDcsLTQ0ODI1NDA0NywtOTc5MjIyNTc3LC
+04ODM2NDAxLC0xNDcxNzAwMjU1LC02NTg2NDk1NTIsLTIwMDU2
+NzUzODEsLTE5NDg1NjgyNDgsNDYzOTc0NCw1NzQ5MzE1NDIsNT
+cxODE1Mzc3XX0=
 -->
