@@ -20,10 +20,11 @@ These are the problems:
 
 * General
 	* Make the game more fun
-	* Scoreboard have purpose
+	* Make scoreboard have purpose
 	* Add difficulty levels
+	* Make ball easier to pick up
 
-hello i'm twsting this documentation and you  are supposed to have cert
+
 # Week 1
 I was tasked by my lecturer to do certain thing. To make a piano with 3-5 keys that plays a note in Midi code in about two weeks time, knowing my first ever task on this project. I went to research about how to make the piano.
 
@@ -36,10 +37,10 @@ Step 1: Download visual studio
 
 AI intergration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTY0MDE5NTAsLTEyODMwODk3NTUsLT
-EyMjAxNjQ3ODksNDcyMzMxMzU1LDk0MDYzOTMyOSwxMzI2NTAx
-NzU0LC0xNjY5MzIzNDA3LC00NDgyNTQwNDcsLTk3OTIyMjU3Ny
-wtODgzNjQwMSwtMTQ3MTcwMDI1NSwtNjU4NjQ5NTUyLC0yMDA1
-Njc1MzgxLC0xOTQ4NTY4MjQ4LDQ2Mzk3NDQsNTc0OTMxNTQyLD
-U3MTgxNTM3N119
+eyJoaXN0b3J5IjpbMTQxMzAxOTc2OCwtMTI4MzA4OTc1NSwtMT
+IyMDE2NDc4OSw0NzIzMzEzNTUsOTQwNjM5MzI5LDEzMjY1MDE3
+NTQsLTE2NjkzMjM0MDcsLTQ0ODI1NDA0NywtOTc5MjIyNTc3LC
+04ODM2NDAxLC0xNDcxNzAwMjU1LC02NTg2NDk1NTIsLTIwMDU2
+NzUzODEsLTE5NDg1NjgyNDgsNDYzOTc0NCw1NzQ5MzE1NDIsNT
+cxODE1Mzc3XX0=
 -->
