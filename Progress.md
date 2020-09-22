@@ -3,8 +3,8 @@ I was briefed about the project and I learned that I am going to make games and 
  I was also briefed of what things I will be using:
  * Unity 3D
  * Visual studio
- * [MIDI Code(Music Generation)](https://developer.leapmotion.com/sdk-leap-motion-controller/)
- * Leap Motion Control(Input device)
+ * MIDI Code(Music Generation)
+  * Leap Motion Control(Input device)
 
 For this week, I will do research and also meet with my seniors who have worked on the project before to make sure that I can get their vision for this project, which is necessary for its completion and excellence
 
@@ -49,10 +49,10 @@ I have been busy with a project called TIP in the first week and thus I was able
 
 ## Engineering rehibilitation 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Njg2MDI1NCwtMTI4MzA4OTc1NSwtMT
-IyMDE2NDc4OSw0NzIzMzEzNTUsOTQwNjM5MzI5LDEzMjY1MDE3
-NTQsLTE2NjkzMjM0MDcsLTQ0ODI1NDA0NywtOTc5MjIyNTc3LC
-04ODM2NDAxLC0xNDcxNzAwMjU1LC02NTg2NDk1NTIsLTIwMDU2
-NzUzODEsLTE5NDg1NjgyNDgsNDYzOTc0NCw1NzQ5MzE1NDIsNT
-cxODE1Mzc3XX0=
+eyJoaXN0b3J5IjpbNjU3NDg1MTYwLC0xMjgzMDg5NzU1LC0xMj
+IwMTY0Nzg5LDQ3MjMzMTM1NSw5NDA2MzkzMjksMTMyNjUwMTc1
+NCwtMTY2OTMyMzQwNywtNDQ4MjU0MDQ3LC05NzkyMjI1NzcsLT
+g4MzY0MDEsLTE0NzE3MDAyNTUsLTY1ODY0OTU1MiwtMjAwNTY3
+NTM4MSwtMTk0ODU2ODI0OCw0NjM5NzQ0LDU3NDkzMTU0Miw1Nz
+E4MTUzNzddfQ==
 -->
