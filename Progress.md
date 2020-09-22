@@ -39,14 +39,19 @@ First, go to [this website](https://unity3d.com/get-unity/download/archive) and 
 Then, to go the [leap motion SDK webiste](https://developer.leapmotion.com/sdk-leap-motion-controller/) and download for you relevant OS system
 
 #### Step 2: unzip file and install unity
-Now, afte you have installed the folder, 
+Now, after you have dowloaded the SDK, now unzip it. Use 7-zip to do it or use winrar
+
+
+ 
 
 AI intergration
+
+#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MzA4NzY4MSwtMTI4MzA4OTc1NSwtMT
-IyMDE2NDc4OSw0NzIzMzEzNTUsOTQwNjM5MzI5LDEzMjY1MDE3
-NTQsLTE2NjkzMjM0MDcsLTQ0ODI1NDA0NywtOTc5MjIyNTc3LC
-04ODM2NDAxLC0xNDcxNzAwMjU1LC02NTg2NDk1NTIsLTIwMDU2
-NzUzODEsLTE5NDg1NjgyNDgsNDYzOTc0NCw1NzQ5MzE1NDIsNT
-cxODE1Mzc3XX0=
+eyJoaXN0b3J5IjpbOTk5MDczNjkwLC0xMjgzMDg5NzU1LC0xMj
+IwMTY0Nzg5LDQ3MjMzMTM1NSw5NDA2MzkzMjksMTMyNjUwMTc1
+NCwtMTY2OTMyMzQwNywtNDQ4MjU0MDQ3LC05NzkyMjI1NzcsLT
+g4MzY0MDEsLTE0NzE3MDAyNTUsLTY1ODY0OTU1MiwtMjAwNTY3
+NTM4MSwtMTk0ODU2ODI0OCw0NjM5NzQ0LDU3NDkzMTU0Miw1Nz
+E4MTUzNzddfQ==
 -->
