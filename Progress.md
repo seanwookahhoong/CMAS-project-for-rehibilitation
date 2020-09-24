@@ -49,9 +49,9 @@ I have been busy with a project called TIP in the first week and thus I was able
 
 ## Engineering rehibilitation meeting
 We met during the first week and we were discussing about how we could combine our ideas together here are the sildes we presented to our lecturers
-he said that there needs to be research to backk up our data and that there also needs to have  a more detailed 
+he said that there needs to be research to back up our data and that there also needs to have more detailed   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3Nzk2NjgyNyw0MTI0NzcwMjgsNjU3ND
+eyJoaXN0b3J5IjpbMTc2MzEyOTA4Nyw0MTI0NzcwMjgsNjU3ND
 g1MTYwLC0xMjgzMDg5NzU1LC0xMjIwMTY0Nzg5LDQ3MjMzMTM1
 NSw5NDA2MzkzMjksMTMyNjUwMTc1NCwtMTY2OTMyMzQwNywtND
 Q4MjU0MDQ3LC05NzkyMjI1NzcsLTg4MzY0MDEsLTE0NzE3MDAy
