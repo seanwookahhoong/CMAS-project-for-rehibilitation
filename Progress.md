@@ -57,10 +57,11 @@ Firstly, I watched this course called ["Learning C#"](https://www.linkedin.com/l
 
 Then, used this [tutorial](https://learn.unity.com/project/roll-a-ball) where I learnt the basics of unity and how it works.
 
-After that, 
+After that, I watched this video that allowed me to make a piano in unity](https://www.youtube.com/watch?v=bkE1YSSdOLU)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTcwODgyOSwtMTc4MjYyOTE5OCw0MT
+eyJoaXN0b3J5IjpbMTc2MjA4MjM1OSwtMTc4MjYyOTE5OCw0MT
 I0NzcwMjgsNjU3NDg1MTYwLC0xMjgzMDg5NzU1LC0xMjIwMTY0
 Nzg5LDQ3MjMzMTM1NSw5NDA2MzkzMjksMTMyNjUwMTc1NCwtMT
 Y2OTMyMzQwNywtNDQ4MjU0MDQ3LC05NzkyMjI1NzcsLTg4MzY0
