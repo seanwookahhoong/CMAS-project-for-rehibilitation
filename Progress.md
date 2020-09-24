@@ -49,12 +49,12 @@ I have been busy with a project called TIP in the first week and thus I was able
 
 ## Engineering rehibilitation meeting
 We met during the first week and we were discussing about how we could combine our ideas together here are the sildes we presented to our lecturers
-he said that there needs to be 1-2 research papers to back up our data. Al
+he said that there needs to be 1-2 research papers to back up our data. Also the flowchart needs to be more detailed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1MzIzMDU1LDQxMjQ3NzAyOCw2NTc0OD
-UxNjAsLTEyODMwODk3NTUsLTEyMjAxNjQ3ODksNDcyMzMxMzU1
-LDk0MDYzOTMyOSwxMzI2NTAxNzU0LC0xNjY5MzIzNDA3LC00ND
-gyNTQwNDcsLTk3OTIyMjU3NywtODgzNjQwMSwtMTQ3MTcwMDI1
-NSwtNjU4NjQ5NTUyLC0yMDA1Njc1MzgxLC0xOTQ4NTY4MjQ4LD
-Q2Mzk3NDQsNTc0OTMxNTQyLDU3MTgxNTM3N119
+eyJoaXN0b3J5IjpbLTE3ODI2MjkxOTgsNDEyNDc3MDI4LDY1Nz
+Q4NTE2MCwtMTI4MzA4OTc1NSwtMTIyMDE2NDc4OSw0NzIzMzEz
+NTUsOTQwNjM5MzI5LDEzMjY1MDE3NTQsLTE2NjkzMjM0MDcsLT
+Q0ODI1NDA0NywtOTc5MjIyNTc3LC04ODM2NDAxLC0xNDcxNzAw
+MjU1LC02NTg2NDk1NTIsLTIwMDU2NzUzODEsLTE5NDg1NjgyND
+gsNDYzOTc0NCw1NzQ5MzE1NDIsNTcxODE1Mzc3XX0=
 -->
