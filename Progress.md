@@ -48,13 +48,13 @@ I was tasked by my lecturer to do to two things
 I have been busy with a project called TIP in the first week and thus I was able to work on the piano only in week two. Though I was able to discuss about the project with the ER(engineering rehibilitation) people about what direction to have our rehibiltaion course to go
 
 ## Engineering rehibilitation meeting
-We met during the first week and we  discussing about how towe combine our ideas together here are the sildes we presented to our lecturers
-he siad that there needs to be 
+We met during the first week and we were discussing about how we could combine our ideas together here are the sildes we presented to our lecturers
+he said that there needs to be research to backk up our data and that there also needs to have  a more detailed 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQ3ODEzMzAsNDEyNDc3MDI4LDY1Nz
-Q4NTE2MCwtMTI4MzA4OTc1NSwtMTIyMDE2NDc4OSw0NzIzMzEz
-NTUsOTQwNjM5MzI5LDEzMjY1MDE3NTQsLTE2NjkzMjM0MDcsLT
-Q0ODI1NDA0NywtOTc5MjIyNTc3LC04ODM2NDAxLC0xNDcxNzAw
-MjU1LC02NTg2NDk1NTIsLTIwMDU2NzUzODEsLTE5NDg1NjgyND
-gsNDYzOTc0NCw1NzQ5MzE1NDIsNTcxODE1Mzc3XX0=
+eyJoaXN0b3J5IjpbLTg3Nzk2NjgyNyw0MTI0NzcwMjgsNjU3ND
+g1MTYwLC0xMjgzMDg5NzU1LC0xMjIwMTY0Nzg5LDQ3MjMzMTM1
+NSw5NDA2MzkzMjksMTMyNjUwMTc1NCwtMTY2OTMyMzQwNywtND
+Q4MjU0MDQ3LC05NzkyMjI1NzcsLTg4MzY0MDEsLTE0NzE3MDAy
+NTUsLTY1ODY0OTU1MiwtMjAwNTY3NTM4MSwtMTk0ODU2ODI0OC
+w0NjM5NzQ0LDU3NDkzMTU0Miw1NzE4MTUzNzddfQ==
 -->
