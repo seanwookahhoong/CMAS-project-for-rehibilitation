@@ -50,11 +50,15 @@ I have been busy with a project called TIP in the first week and thus I was able
 ## Engineering rehibilitation meeting
 We met during the first week and we were discussing about how we could combine our ideas together here are the sildes we presented to our lecturers
 he said that there needs to be 1-2 research papers to back up our data. Also the flowchart needs to be more detailed
+
+## Piano making
+Firstly, I used this [tutorial](https://learn.unity.com/project/roll-a-ball
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODI2MjkxOTgsNDEyNDc3MDI4LDY1Nz
-Q4NTE2MCwtMTI4MzA4OTc1NSwtMTIyMDE2NDc4OSw0NzIzMzEz
-NTUsOTQwNjM5MzI5LDEzMjY1MDE3NTQsLTE2NjkzMjM0MDcsLT
-Q0ODI1NDA0NywtOTc5MjIyNTc3LC04ODM2NDAxLC0xNDcxNzAw
-MjU1LC02NTg2NDk1NTIsLTIwMDU2NzUzODEsLTE5NDg1NjgyND
-gsNDYzOTc0NCw1NzQ5MzE1NDIsNTcxODE1Mzc3XX0=
+eyJoaXN0b3J5IjpbLTUwNTc0MTU3NCwtMTc4MjYyOTE5OCw0MT
+I0NzcwMjgsNjU3NDg1MTYwLC0xMjgzMDg5NzU1LC0xMjIwMTY0
+Nzg5LDQ3MjMzMTM1NSw5NDA2MzkzMjksMTMyNjUwMTc1NCwtMT
+Y2OTMyMzQwNywtNDQ4MjU0MDQ3LC05NzkyMjI1NzcsLTg4MzY0
+MDEsLTE0NzE3MDAyNTUsLTY1ODY0OTU1MiwtMjAwNTY3NTM4MS
+wtMTk0ODU2ODI0OCw0NjM5NzQ0LDU3NDkzMTU0Miw1NzE4MTUz
+NzddfQ==
 -->
