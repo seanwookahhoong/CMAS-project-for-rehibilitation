@@ -45,16 +45,20 @@ I was tasked by my lecturer to do to two things
 1. To make a piano with 3-5 keys that plays a note in Midi code in about two weeks time, knowing my first ever task on this project. I went to research about how to make the piano.
 2. Discuss with the other engineering rehibilitaion people how to make a rehibilitation course with our products
 
-I have been busy with a project called TIP in the first week and thus I was able to work on the piano only in week two. Though I was able to discuss about the project with the ER(engineering rehibilitation) people about what direction to have our rehibiltaion course to go
+I have been busy with a project called TIP in the first week and thus I was able to work on the piano only in week two. Though I was able to discuss about the project with the ER(engineering rehibilitation) student about what direction to have our rehibiltaion course to go
 
 ## Engineering rehibilitation meeting
 We met during the first week and we were discussing about how we could combine our ideas together here are the sildes we presented to our lecturers
 he said that there needs to be 1-2 research papers to back up our data. Also the flowchart needs to be more detailed
 
 ## Piano making
-Firstly, I used this [tutorial](https://learn.unity.com/project/roll-a-ball
+Firstly, I used this
+
+
+I used this [tutorial](https://learn.unity.com/project/roll-a-ball) where I learnt the basics of unity and how it works
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTc0MTU3NCwtMTc4MjYyOTE5OCw0MT
+eyJoaXN0b3J5IjpbLTE1ODM2MjQ0MSwtMTc4MjYyOTE5OCw0MT
 I0NzcwMjgsNjU3NDg1MTYwLC0xMjgzMDg5NzU1LC0xMjIwMTY0
 Nzg5LDQ3MjMzMTM1NSw5NDA2MzkzMjksMTMyNjUwMTc1NCwtMT
 Y2OTMyMzQwNywtNDQ4MjU0MDQ3LC05NzkyMjI1NzcsLTg4MzY0
