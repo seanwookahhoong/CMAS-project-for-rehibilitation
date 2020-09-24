@@ -48,13 +48,13 @@ I was tasked by my lecturer to do to two things
 I have been busy with a project called TIP in the first week and thus I was able to work on the piano only in week two. Though I was able to discuss about the project with the ER(engineering rehibilitation) people about what direction to have our rehibiltaion course to go
 
 ## Engineering rehibilitation meeting
-We met during the first week and we wre discussing about how towe combine our ideas together here are the sildes we presented to our lecturers
+We met during the first week and we  discussing about how towe combine our ideas together here are the sildes we presented to our lecturers
 he siad that there needs to be 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyNDc3MDI4LDY1NzQ4NTE2MCwtMTI4Mz
-A4OTc1NSwtMTIyMDE2NDc4OSw0NzIzMzEzNTUsOTQwNjM5MzI5
-LDEzMjY1MDE3NTQsLTE2NjkzMjM0MDcsLTQ0ODI1NDA0NywtOT
-c5MjIyNTc3LC04ODM2NDAxLC0xNDcxNzAwMjU1LC02NTg2NDk1
-NTIsLTIwMDU2NzUzODEsLTE5NDg1NjgyNDgsNDYzOTc0NCw1Nz
-Q5MzE1NDIsNTcxODE1Mzc3XX0=
+eyJoaXN0b3J5IjpbLTIwMjQ3ODEzMzAsNDEyNDc3MDI4LDY1Nz
+Q4NTE2MCwtMTI4MzA4OTc1NSwtMTIyMDE2NDc4OSw0NzIzMzEz
+NTUsOTQwNjM5MzI5LDEzMjY1MDE3NTQsLTE2NjkzMjM0MDcsLT
+Q0ODI1NDA0NywtOTc5MjIyNTc3LC04ODM2NDAxLC0xNDcxNzAw
+MjU1LC02NTg2NDk1NTIsLTIwMDU2NzUzODEsLTE5NDg1NjgyND
+gsNDYzOTc0NCw1NzQ5MzE1NDIsNTcxODE1Mzc3XX0=
 -->
