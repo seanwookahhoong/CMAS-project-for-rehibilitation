@@ -49,12 +49,12 @@ I have been busy with a project called TIP in the first week and thus I was able
 
 ## Engineering rehibilitation meeting
 We met during the first week and we were discussing about how we could combine our ideas together here are the sildes we presented to our lecturers
-he said that there needs to be research to back up our data and that there also needs to have more detailed   
+he said that there needs to be 1-2 research papers to back up our data. Al
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzEyOTA4Nyw0MTI0NzcwMjgsNjU3ND
-g1MTYwLC0xMjgzMDg5NzU1LC0xMjIwMTY0Nzg5LDQ3MjMzMTM1
-NSw5NDA2MzkzMjksMTMyNjUwMTc1NCwtMTY2OTMyMzQwNywtND
-Q4MjU0MDQ3LC05NzkyMjI1NzcsLTg4MzY0MDEsLTE0NzE3MDAy
-NTUsLTY1ODY0OTU1MiwtMjAwNTY3NTM4MSwtMTk0ODU2ODI0OC
-w0NjM5NzQ0LDU3NDkzMTU0Miw1NzE4MTUzNzddfQ==
+eyJoaXN0b3J5IjpbMjQ1MzIzMDU1LDQxMjQ3NzAyOCw2NTc0OD
+UxNjAsLTEyODMwODk3NTUsLTEyMjAxNjQ3ODksNDcyMzMxMzU1
+LDk0MDYzOTMyOSwxMzI2NTAxNzU0LC0xNjY5MzIzNDA3LC00ND
+gyNTQwNDcsLTk3OTIyMjU3NywtODgzNjQwMSwtMTQ3MTcwMDI1
+NSwtNjU4NjQ5NTUyLC0yMDA1Njc1MzgxLC0xOTQ4NTY4MjQ4LD
+Q2Mzk3NDQsNTc0OTMxNTQyLDU3MTgxNTM3N119
 -->
