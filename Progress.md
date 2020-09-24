@@ -52,17 +52,17 @@ We met during the first week and we were discussing about how we could combine o
 he said that there needs to be 1-2 research papers to back up our data. Also the flowchart needs to be more detailed
 
 ## Piano making
-Firstly, I watched this course called ["Learning C#"](https://www.linkedin.com/learning/learning-c-sharp-3/welcome?u=2122804) and Learnt about the basics of C# and it is used to 
+Firstly, I watched this course called ["Learning C#"](https://www.linkedin.com/learning/learning-c-sharp-3/welcome?u=2122804) and learnt about the basics of C# and it is used to 
 
 
 I used this [tutorial](https://learn.unity.com/project/roll-a-ball) where I learnt the basics of unity and how it works
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjU1MDkxMjUsLTE3ODI2MjkxOTgsND
-EyNDc3MDI4LDY1NzQ4NTE2MCwtMTI4MzA4OTc1NSwtMTIyMDE2
-NDc4OSw0NzIzMzEzNTUsOTQwNjM5MzI5LDEzMjY1MDE3NTQsLT
-E2NjkzMjM0MDcsLTQ0ODI1NDA0NywtOTc5MjIyNTc3LC04ODM2
-NDAxLC0xNDcxNzAwMjU1LC02NTg2NDk1NTIsLTIwMDU2NzUzOD
-EsLTE5NDg1NjgyNDgsNDYzOTc0NCw1NzQ5MzE1NDIsNTcxODE1
-Mzc3XX0=
+eyJoaXN0b3J5IjpbMTE2OTM4NTY5MSwtMTc4MjYyOTE5OCw0MT
+I0NzcwMjgsNjU3NDg1MTYwLC0xMjgzMDg5NzU1LC0xMjIwMTY0
+Nzg5LDQ3MjMzMTM1NSw5NDA2MzkzMjksMTMyNjUwMTc1NCwtMT
+Y2OTMyMzQwNywtNDQ4MjU0MDQ3LC05NzkyMjI1NzcsLTg4MzY0
+MDEsLTE0NzE3MDAyNTUsLTY1ODY0OTU1MiwtMjAwNTY3NTM4MS
+wtMTk0ODU2ODI0OCw0NjM5NzQ0LDU3NDkzMTU0Miw1NzE4MTUz
+NzddfQ==
 -->
