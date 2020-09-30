@@ -16,8 +16,13 @@
 [Previous student work](https://drive.google.com/drive/folders/1G3yX97uWJPtvhVz62lgR_tYzSzVu4q5q?usp=sharing)
 
 ## Week 1-2
-
+leaern midi
+https://www.youtube.com/watch?v=1lNFEuqW0fQ
+add midi into unity
+https://paxstellar.fr/
+youtube.com/watch?v=ACqeO2FSRsw
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4Njc5MzE0LDc3NTIwNjcxNSwyOTI2MT
-c4MTcsMTg0MjA1ODMxNywxNDMwNzMwNzE4XX0=
+eyJoaXN0b3J5IjpbLTE1MDM1NjQ5ODMsNjU4Njc5MzE0LDc3NT
+IwNjcxNSwyOTI2MTc4MTcsMTg0MjA1ODMxNywxNDMwNzMwNzE4
+XX0=
 -->
