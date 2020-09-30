@@ -21,8 +21,9 @@ https://www.youtube.com/watch?v=1lNFEuqW0fQ
 add midi into unity
 https://paxstellar.fr/
 youtube.com/watch?v=ACqeO2FSRsw
+https://www.linkedin.com/learning/up-and-running-with-luna/why-luna?u=2122804
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDM1NjQ5ODMsNjU4Njc5MzE0LDc3NT
-IwNjcxNSwyOTI2MTc4MTcsMTg0MjA1ODMxNywxNDMwNzMwNzE4
-XX0=
+eyJoaXN0b3J5IjpbMTI4OTQ0NjYyMSw2NTg2NzkzMTQsNzc1Mj
+A2NzE1LDI5MjYxNzgxNywxODQyMDU4MzE3LDE0MzA3MzA3MThd
+fQ==
 -->
