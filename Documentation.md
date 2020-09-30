@@ -16,14 +16,11 @@
 [Previous student work](https://drive.google.com/drive/folders/1G3yX97uWJPtvhVz62lgR_tYzSzVu4q5q?usp=sharing)
 
 ## Week 1-2
-leaern midi
-https://www.youtube.com/watch?v=1lNFEuqW0fQ
 add midi into unity
 https://paxstellar.fr/
 youtube.com/watch?v=ACqeO2FSRsw
-https://www.linkedin.com/learning/up-and-running-with-luna/why-luna?u=2122804
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTQ0NjYyMSw2NTg2NzkzMTQsNzc1Mj
-A2NzE1LDI5MjYxNzgxNywxODQyMDU4MzE3LDE0MzA3MzA3MThd
-fQ==
+eyJoaXN0b3J5IjpbMTc4MDE1NTM4OSwxMjg5NDQ2NjIxLDY1OD
+Y3OTMxNCw3NzUyMDY3MTUsMjkyNjE3ODE3LDE4NDIwNTgzMTcs
+MTQzMDczMDcxOF19
 -->
