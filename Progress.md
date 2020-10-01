@@ -1,6 +1,6 @@
 # Thing to note:
 This is my reflection when doing this project so it is going to have my thoughts on what i felt about the project.
-I will be splitting the progress report by weeks, then I will further split between my reflections and the actual how to dos for future reference or future interns. I will be marking the how to dos 
+I will be splitting the progress report by weeks, then I will further split between my reflections and the actual how to dos for future reference or future interns. I will be marking the how to dos with **``(Tutorial)``**
 
 # Week 0
 ## Reflections
@@ -32,7 +32,7 @@ These are the problems:
 	* AR applications
 	* AI intergration
 	
-## Download things
+### Download things ``(Tutorial)``
 ### Step 1: Download relevant software
 First, go to [this website](https://unity3d.com/get-unity/download/archive) and download this version(Unity 2018.4.18). Download unity hub and download the version of unity.
 
@@ -60,7 +60,7 @@ he said that there needs to be 1-2 research papers/ newspaper articles to back u
 He also said to explain each of our project more.
 
 
-### 2. Piano making ``Tutorial``
+### 2. Piano making ``(Tutorial)``
 Firstly, I watched this course called ["Learning C#"](https://www.linkedin.com/learning/learning-c-sharp-3/welcome?u=2122804) and learnt about the basics of C# and it is used to do scripting for making games
 For a quicker tutorial, go to the [W3 schools C# tutorial](https://www.w3schools.com/cs/default.asp) to learn about the basics or C#
 
@@ -75,11 +75,11 @@ Though I came into a problem, when i followed the video, I realised that
 ## Engineering Rehibilitation meeting
 We went to improve our slides, we put one or two research papers into the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwODk2MzI2OCwtOTc0NzA3NzI0LDY2ND
-QzNTMzOCwtMTc4MjYyOTE5OCw0MTI0NzcwMjgsNjU3NDg1MTYw
-LC0xMjgzMDg5NzU1LC0xMjIwMTY0Nzg5LDQ3MjMzMTM1NSw5ND
-A2MzkzMjksMTMyNjUwMTc1NCwtMTY2OTMyMzQwNywtNDQ4MjU0
-MDQ3LC05NzkyMjI1NzcsLTg4MzY0MDEsLTE0NzE3MDAyNTUsLT
-Y1ODY0OTU1MiwtMjAwNTY3NTM4MSwtMTk0ODU2ODI0OCw0NjM5
-NzQ0XX0=
+eyJoaXN0b3J5IjpbLTExMTg0MzY3OTAsLTk3NDcwNzcyNCw2Nj
+Q0MzUzMzgsLTE3ODI2MjkxOTgsNDEyNDc3MDI4LDY1NzQ4NTE2
+MCwtMTI4MzA4OTc1NSwtMTIyMDE2NDc4OSw0NzIzMzEzNTUsOT
+QwNjM5MzI5LDEzMjY1MDE3NTQsLTE2NjkzMjM0MDcsLTQ0ODI1
+NDA0NywtOTc5MjIyNTc3LC04ODM2NDAxLC0xNDcxNzAwMjU1LC
+02NTg2NDk1NTIsLTIwMDU2NzUzODEsLTE5NDg1NjgyNDgsNDYz
+OTc0NF19
 -->
