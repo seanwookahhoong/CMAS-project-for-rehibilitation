@@ -49,7 +49,8 @@ I have been busy with a project called TIP in the first week and thus I was able
 
 ## Engineering rehibilitation meeting
 We met during the first week and we were discussing about how we could combine our ideas together here are the sildes we presented to our lecturers
-he said that there needs to be 1-2 research papers to back up our data. Also the flowchart needs to be more detailed
+he said that there needs to be 1-2 research papers to back up our data. Also the flowchart needs to be more detailed.
+He also said to explain our product mo
 
 ## Piano making
 Firstly, I watched this course called ["Learning C#"](https://www.linkedin.com/learning/learning-c-sharp-3/welcome?u=2122804) and learnt about the basics of C# and it is used to do scripting for making games
@@ -62,13 +63,14 @@ After that, I watched this video that allowed me to make a [piano in unity](http
 Though I came into a problem, when i followed the video, I realised that 
 
 # Week 3
-## En
+## Engineering Rehibilitation meeting
+We went to improve our slides, we put one or two research papers into the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM1NjcwNDMsLTk3NDcwNzcyNCw2Nj
-Q0MzUzMzgsLTE3ODI2MjkxOTgsNDEyNDc3MDI4LDY1NzQ4NTE2
-MCwtMTI4MzA4OTc1NSwtMTIyMDE2NDc4OSw0NzIzMzEzNTUsOT
-QwNjM5MzI5LDEzMjY1MDE3NTQsLTE2NjkzMjM0MDcsLTQ0ODI1
-NDA0NywtOTc5MjIyNTc3LC04ODM2NDAxLC0xNDcxNzAwMjU1LC
-02NTg2NDk1NTIsLTIwMDU2NzUzODEsLTE5NDg1NjgyNDgsNDYz
-OTc0NF19
+eyJoaXN0b3J5IjpbLTI3NzA5ODYyNywtOTc0NzA3NzI0LDY2ND
+QzNTMzOCwtMTc4MjYyOTE5OCw0MTI0NzcwMjgsNjU3NDg1MTYw
+LC0xMjgzMDg5NzU1LC0xMjIwMTY0Nzg5LDQ3MjMzMTM1NSw5ND
+A2MzkzMjksMTMyNjUwMTc1NCwtMTY2OTMyMzQwNywtNDQ4MjU0
+MDQ3LC05NzkyMjI1NzcsLTg4MzY0MDEsLTE0NzE3MDAyNTUsLT
+Y1ODY0OTU1MiwtMjAwNTY3NTM4MSwtMTk0ODU2ODI0OCw0NjM5
+NzQ0XX0=
 -->
