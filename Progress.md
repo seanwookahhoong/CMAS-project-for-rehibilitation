@@ -67,19 +67,19 @@ For a quicker tutorial, go to the [W3 schools C# tutorial](https://www.w3schools
 
 Then, used this tutorial called [roll a ball](https://learn.unity.com/project/roll-a-ball) where I learnt the basics of unity and how it works.
 
-After that, I watched this video that allowed me to make a [piano in unity](https://www.youtube.com/watch?v=bkE1YSSdOLU).
+After that, I watched [this video](https://www.youtube.com/watch?v=bkE1YSSdOLU) as reference for making the piano in unity
 
-Though I came into a problem, when i followed the video, I realised that 
+Though I came into a problem, when i followed the video, I realised that I couldn't drag the UI elements into the 
 
 # Week 3
 ## Engineering Rehibilitation meeting
 We went to improve our slides, we put one or two research papers into the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDgwOTUxLC05NzQ3MDc3MjQsNjY0ND
-M1MzM4LC0xNzgyNjI5MTk4LDQxMjQ3NzAyOCw2NTc0ODUxNjAs
-LTEyODMwODk3NTUsLTEyMjAxNjQ3ODksNDcyMzMxMzU1LDk0MD
-YzOTMyOSwxMzI2NTAxNzU0LC0xNjY5MzIzNDA3LC00NDgyNTQw
-NDcsLTk3OTIyMjU3NywtODgzNjQwMSwtMTQ3MTcwMDI1NSwtNj
-U4NjQ5NTUyLC0yMDA1Njc1MzgxLC0xOTQ4NTY4MjQ4LDQ2Mzk3
-NDRdfQ==
+eyJoaXN0b3J5IjpbLTE1Mzg2ODY2NzIsLTk3NDcwNzcyNCw2Nj
+Q0MzUzMzgsLTE3ODI2MjkxOTgsNDEyNDc3MDI4LDY1NzQ4NTE2
+MCwtMTI4MzA4OTc1NSwtMTIyMDE2NDc4OSw0NzIzMzEzNTUsOT
+QwNjM5MzI5LDEzMjY1MDE3NTQsLTE2NjkzMjM0MDcsLTQ0ODI1
+NDA0NywtOTc5MjIyNTc3LC04ODM2NDAxLC0xNDcxNzAwMjU1LC
+02NTg2NDk1NTIsLTIwMDU2NzUzODEsLTE5NDg1NjgyNDgsNDYz
+OTc0NF19
 -->
