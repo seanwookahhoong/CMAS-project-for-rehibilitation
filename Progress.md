@@ -59,14 +59,16 @@ Then, used this [tutorial](https://learn.unity.com/project/roll-a-ball) where I 
 
 After that, I watched this video that allowed me to make a [piano in unity](https://www.youtube.com/watch?v=bkE1YSSdOLU).
 
-# Week 3
+Though I came into a problem, when i followed the video, I realised that 
 
+# Week 3
+## En
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDcwNzcyNCw2NjQ0MzUzMzgsLTE3OD
-I2MjkxOTgsNDEyNDc3MDI4LDY1NzQ4NTE2MCwtMTI4MzA4OTc1
-NSwtMTIyMDE2NDc4OSw0NzIzMzEzNTUsOTQwNjM5MzI5LDEzMj
-Y1MDE3NTQsLTE2NjkzMjM0MDcsLTQ0ODI1NDA0NywtOTc5MjIy
-NTc3LC04ODM2NDAxLC0xNDcxNzAwMjU1LC02NTg2NDk1NTIsLT
-IwMDU2NzUzODEsLTE5NDg1NjgyNDgsNDYzOTc0NCw1NzQ5MzE1
-NDJdfQ==
+eyJoaXN0b3J5IjpbLTE4MTM1NjcwNDMsLTk3NDcwNzcyNCw2Nj
+Q0MzUzMzgsLTE3ODI2MjkxOTgsNDEyNDc3MDI4LDY1NzQ4NTE2
+MCwtMTI4MzA4OTc1NSwtMTIyMDE2NDc4OSw0NzIzMzEzNTUsOT
+QwNjM5MzI5LDEzMjY1MDE3NTQsLTE2NjkzMjM0MDcsLTQ0ODI1
+NDA0NywtOTc5MjIyNTc3LC04ODM2NDAxLC0xNDcxNzAwMjU1LC
+02NTg2NDk1NTIsLTIwMDU2NzUzODEsLTE5NDg1NjgyNDgsNDYz
+OTc0NF19
 -->
