@@ -65,7 +65,7 @@ Firstly, I watched this course called ["Learning C#"](https://www.linkedin.com/l
 For a quicker tutorial, go to the [W3 schools C# tutorial](https://www.w3schools.com/cs/default.asp) to learn about the basics or C#
 
 
-Then, used this tutorial called [roll a ball](https://learn.unity.com/project/roll-a-ball) where I learnt the basics of unity and how it works.
+Then, used this tutorial called [roll a ball](https://learn.unity.com/project/roll-a-ball) where I learnt the basics of unity and how it works. Make sure you follow the tutorial that corrosponds to the version of unity you are using
 
 After that, I watched [this video](https://www.youtube.com/watch?v=bkE1YSSdOLU) as reference for making the piano in unity
 
@@ -76,11 +76,11 @@ Though I came into a problem, when i followed the video, at 17:16, I was unable 
 ### Engineering Rehibilitation meeting
 We went to improve our slides, we put one or two research papers and did slides for each of our products. Mr Kumar, our lecturer saw our slides again and he said that there needs to be more explaination about the rehabilitation process and our slides need to convince doctors to take upon our prototypes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzMxMzMzNzAsNTY4OTY5OTA2LC05Nz
-Q3MDc3MjQsNjY0NDM1MzM4LC0xNzgyNjI5MTk4LDQxMjQ3NzAy
-OCw2NTc0ODUxNjAsLTEyODMwODk3NTUsLTEyMjAxNjQ3ODksND
-cyMzMxMzU1LDk0MDYzOTMyOSwxMzI2NTAxNzU0LC0xNjY5MzIz
-NDA3LC00NDgyNTQwNDcsLTk3OTIyMjU3NywtODgzNjQwMSwtMT
-Q3MTcwMDI1NSwtNjU4NjQ5NTUyLC0yMDA1Njc1MzgxLC0xOTQ4
-NTY4MjQ4XX0=
+eyJoaXN0b3J5IjpbMjkzOTQ2MTIsLTIwMzMxMzMzNzAsNTY4OT
+Y5OTA2LC05NzQ3MDc3MjQsNjY0NDM1MzM4LC0xNzgyNjI5MTk4
+LDQxMjQ3NzAyOCw2NTc0ODUxNjAsLTEyODMwODk3NTUsLTEyMj
+AxNjQ3ODksNDcyMzMxMzU1LDk0MDYzOTMyOSwxMzI2NTAxNzU0
+LC0xNjY5MzIzNDA3LC00NDgyNTQwNDcsLTk3OTIyMjU3NywtOD
+gzNjQwMSwtMTQ3MTcwMDI1NSwtNjU4NjQ5NTUyLC0yMDA1Njc1
+MzgxXX0=
 -->
