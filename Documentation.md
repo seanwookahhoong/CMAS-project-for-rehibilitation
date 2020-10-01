@@ -19,8 +19,10 @@
 add midi into unity
 https://paxstellar.fr/
 youtube.com/watch?v=ACqeO2FSRsw
+https://www.youtube.com/watch?v=Wh3YK2OcI4M
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDE1NTM4OSwxMjg5NDQ2NjIxLDY1OD
-Y3OTMxNCw3NzUyMDY3MTUsMjkyNjE3ODE3LDE4NDIwNTgzMTcs
-MTQzMDczMDcxOF19
+eyJoaXN0b3J5IjpbLTEwOTgzODYwMTksMTc4MDE1NTM4OSwxMj
+g5NDQ2NjIxLDY1ODY3OTMxNCw3NzUyMDY3MTUsMjkyNjE3ODE3
+LDE4NDIwNTgzMTcsMTQzMDczMDcxOF19
 -->
