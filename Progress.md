@@ -1,7 +1,9 @@
 # Thing to note:
-this is my reflection when doing this project so it is going to have my thoughts on what i felt about the project
+This is my reflection when doing this project so it is going to have my thoughts on what i felt about the project.
+I will be splitting the progress report by weeks, then I will fur
 
 # Week 0
+## Reflections
 I was briefed about the project and I learned that I am going to make games and improve on existing ones that my seniors have already made for my Final year project.
  I was also briefed of what things I will be using:
  * Unity 3D
@@ -74,7 +76,7 @@ Though I came into a problem, when i followed the video, I realised that
 ## Engineering Rehibilitation meeting
 We went to improve our slides, we put one or two research papers into the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4NDM4OTA1LC05NzQ3MDc3MjQsNjY0ND
+eyJoaXN0b3J5IjpbNzEzNzQ2MzY4LC05NzQ3MDc3MjQsNjY0ND
 M1MzM4LC0xNzgyNjI5MTk4LDQxMjQ3NzAyOCw2NTc0ODUxNjAs
 LTEyODMwODk3NTUsLTEyMjAxNjQ3ODksNDcyMzMxMzU1LDk0MD
 YzOTMyOSwxMzI2NTAxNzU0LC0xNjY5MzIzNDA3LC00NDgyNTQw
