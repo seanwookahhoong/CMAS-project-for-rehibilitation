@@ -1,6 +1,6 @@
 # Thing to note:
 This is my reflection when doing this project so it is going to have my thoughts on what i felt about the project.
-I will be splitting the progress report by weeks, then I will further split between my reflections and the actual how to dos for future reference or future interns. I will be marking the how to dos with **``(Tutorial)``**
+I will be splitting the progress report by weeks, then I will further split between my reflections and the actual how to dos for future reference or future interns. I will be marking the how to dos with **``(Tutorial)``** so you don't have to read the whole document
 
 # Week 0
 ## Reflections
@@ -75,11 +75,11 @@ Though I came into a problem, when i followed the video, I realised that
 ## Engineering Rehibilitation meeting
 We went to improve our slides, we put one or two research papers into the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg0MzY3OTAsLTk3NDcwNzcyNCw2Nj
-Q0MzUzMzgsLTE3ODI2MjkxOTgsNDEyNDc3MDI4LDY1NzQ4NTE2
-MCwtMTI4MzA4OTc1NSwtMTIyMDE2NDc4OSw0NzIzMzEzNTUsOT
-QwNjM5MzI5LDEzMjY1MDE3NTQsLTE2NjkzMjM0MDcsLTQ0ODI1
-NDA0NywtOTc5MjIyNTc3LC04ODM2NDAxLC0xNDcxNzAwMjU1LC
-02NTg2NDk1NTIsLTIwMDU2NzUzODEsLTE5NDg1NjgyNDgsNDYz
-OTc0NF19
+eyJoaXN0b3J5IjpbLTgwNjcwNDI4OSwtOTc0NzA3NzI0LDY2ND
+QzNTMzOCwtMTc4MjYyOTE5OCw0MTI0NzcwMjgsNjU3NDg1MTYw
+LC0xMjgzMDg5NzU1LC0xMjIwMTY0Nzg5LDQ3MjMzMTM1NSw5ND
+A2MzkzMjksMTMyNjUwMTc1NCwtMTY2OTMyMzQwNywtNDQ4MjU0
+MDQ3LC05NzkyMjI1NzcsLTg4MzY0MDEsLTE0NzE3MDAyNTUsLT
+Y1ODY0OTU1MiwtMjAwNTY3NTM4MSwtMTk0ODU2ODI0OCw0NjM5
+NzQ0XX0=
 -->
