@@ -73,13 +73,13 @@ Though I came into a problem, when i followed the video, at 17:16, I was unable 
 
 # Week 3
 ## Engineering Rehibilitation meeting
-We went to improve our slides, we put one or two research papers into the 
+We went to improve our slides, we put one or two research papers and did slides for each of our products. Mr Kumar, our lecturer saw our slides again and he said that there needs to be more 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4OTY5OTA2LC05NzQ3MDc3MjQsNjY0ND
-M1MzM4LC0xNzgyNjI5MTk4LDQxMjQ3NzAyOCw2NTc0ODUxNjAs
-LTEyODMwODk3NTUsLTEyMjAxNjQ3ODksNDcyMzMxMzU1LDk0MD
-YzOTMyOSwxMzI2NTAxNzU0LC0xNjY5MzIzNDA3LC00NDgyNTQw
-NDcsLTk3OTIyMjU3NywtODgzNjQwMSwtMTQ3MTcwMDI1NSwtNj
-U4NjQ5NTUyLC0yMDA1Njc1MzgxLC0xOTQ4NTY4MjQ4LDQ2Mzk3
-NDRdfQ==
+eyJoaXN0b3J5IjpbLTQ5MjcwMjA3OCw1Njg5Njk5MDYsLTk3ND
+cwNzcyNCw2NjQ0MzUzMzgsLTE3ODI2MjkxOTgsNDEyNDc3MDI4
+LDY1NzQ4NTE2MCwtMTI4MzA4OTc1NSwtMTIyMDE2NDc4OSw0Nz
+IzMzEzNTUsOTQwNjM5MzI5LDEzMjY1MDE3NTQsLTE2NjkzMjM0
+MDcsLTQ0ODI1NDA0NywtOTc5MjIyNTc3LC04ODM2NDAxLC0xND
+cxNzAwMjU1LC02NTg2NDk1NTIsLTIwMDU2NzUzODEsLTE5NDg1
+NjgyNDhdfQ==
 -->
