@@ -1,6 +1,6 @@
 # Thing to note:
 This is my reflection when doing this project so it is going to have my thoughts on what i felt about the project.
-I will be splitting the progress report by weeks, then I will further split between my reflections and the actual how to dos for future reference or future interns. I will be 
+I will be splitting the progress report by weeks, then I will further split between my reflections and the actual how to dos for future reference or future interns. I will be marking the how to dos 
 
 # Week 0
 ## Reflections
@@ -32,15 +32,15 @@ These are the problems:
 	* AR applications
 	* AI intergration
 	
-Here are the things you need to do for the set up(@)
+*Here are the things you need to do for the set up*
 ### Step 1: Download relevant software
 First, go to [this website](https://unity3d.com/get-unity/download/archive) and download this version(Unity 2018.4.18). Download unity hub and download the version of unity.
 
 Then, to go the [leap motion SDK webiste](https://developer.leapmotion.com/sdk-leap-motion-controller/) and download for you relevant OS system. You will now be able to use the leap motion controllerfor your project.
-You also need to go to [this website](https://developer.leapmotion.com/unity) and install the required unity packages needed to create games in unity
+You also need to go to [this website](https://developer.leapmotion.com/unity) and install the required unity packages needed to create games in unity*
 
 **You should put all of the leap motion controller stuff in one folder in your desktop for convinience purposes**
-
+*
 
 
 
@@ -75,11 +75,11 @@ Though I came into a problem, when i followed the video, I realised that
 ## Engineering Rehibilitation meeting
 We went to improve our slides, we put one or two research papers into the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExMTY3NjY0LC05NzQ3MDc3MjQsNjY0ND
-M1MzM4LC0xNzgyNjI5MTk4LDQxMjQ3NzAyOCw2NTc0ODUxNjAs
-LTEyODMwODk3NTUsLTEyMjAxNjQ3ODksNDcyMzMxMzU1LDk0MD
-YzOTMyOSwxMzI2NTAxNzU0LC0xNjY5MzIzNDA3LC00NDgyNTQw
-NDcsLTk3OTIyMjU3NywtODgzNjQwMSwtMTQ3MTcwMDI1NSwtNj
-U4NjQ5NTUyLC0yMDA1Njc1MzgxLC0xOTQ4NTY4MjQ4LDQ2Mzk3
-NDRdfQ==
+eyJoaXN0b3J5IjpbLTY4NzEzNDgyNiwtOTc0NzA3NzI0LDY2ND
+QzNTMzOCwtMTc4MjYyOTE5OCw0MTI0NzcwMjgsNjU3NDg1MTYw
+LC0xMjgzMDg5NzU1LC0xMjIwMTY0Nzg5LDQ3MjMzMTM1NSw5ND
+A2MzkzMjksMTMyNjUwMTc1NCwtMTY2OTMyMzQwNywtNDQ4MjU0
+MDQ3LC05NzkyMjI1NzcsLTg4MzY0MDEsLTE0NzE3MDAyNTUsLT
+Y1ODY0OTU1MiwtMjAwNTY3NTM4MSwtMTk0ODU2ODI0OCw0NjM5
+NzQ0XX0=
 -->
