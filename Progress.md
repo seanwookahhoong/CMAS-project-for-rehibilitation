@@ -47,18 +47,20 @@ You also need to go to [this website](https://developer.leapmotion.com/unity) an
 
 
 # Week 1-2
+## Reflections
 I was tasked by my lecturer to do to two things 
 1. To make a piano with 3-5 keys that plays a note in Midi code in about two weeks time, knowing my first ever task on this project. I went to research about how to make the piano.
 2. Discuss with the other engineering rehibilitaion people how to make a rehibilitation course with our products
 
 I have been busy with a project called TIP in the first week and thus I was able to work on the piano only in week two. Though I was able to discuss about the project with the ER(engineering rehibilitation) student about what direction to have our rehibiltaion course to go
 
-## Engineering rehibilitation meeting
+### Engineering rehibilitation meeting
 We met during the first week and we were discussing about how we could combine our ideas together here are the sildes we presented to our lecturers
 he said that there needs to be 1-2 research papers/ newspaper articles to back up our data. Also the flowchart needs to be more detailed.
 He also said to explain each of our project more.
 
-## Piano making
+
+### Piano making
 Firstly, I watched this course called ["Learning C#"](https://www.linkedin.com/learning/learning-c-sharp-3/welcome?u=2122804) and learnt about the basics of C# and it is used to do scripting for making games
 For a quicker tutorial, go to the [W3 schools C# tutorial](https://www.w3schools.com/cs/default.asp) to learn about the basics or C#
 
@@ -73,7 +75,7 @@ Though I came into a problem, when i followed the video, I realised that
 ## Engineering Rehibilitation meeting
 We went to improve our slides, we put one or two research papers into the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3OTQ4NDk3LC05NzQ3MDc3MjQsNjY0ND
+eyJoaXN0b3J5IjpbOTA5MjE1OTczLC05NzQ3MDc3MjQsNjY0ND
 M1MzM4LC0xNzgyNjI5MTk4LDQxMjQ3NzAyOCw2NTc0ODUxNjAs
 LTEyODMwODk3NTUsLTEyMjAxNjQ3ODksNDcyMzMxMzU1LDk0MD
 YzOTMyOSwxMzI2NTAxNzU0LC0xNjY5MzIzNDA3LC00NDgyNTQw
