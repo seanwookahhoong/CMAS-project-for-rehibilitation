@@ -1,6 +1,6 @@
 # Thing to note:
 This is my reflection when doing this project so it is going to have my thoughts on what i felt about the project.
-I will be splitting the progress report by weeks, then I will further split between my reflections and the actual how to dos for future reference or future interns
+I will be splitting the progress report by weeks, then I will further split between my reflections and the actual how to dos for future reference or future interns. I will be 
 
 # Week 0
 ## Reflections
@@ -32,7 +32,7 @@ These are the problems:
 	* AR applications
 	* AI intergration
 	
-## Things to do for week 0
+Here are the things you need to do for the set up(@)
 ### Step 1: Download relevant software
 First, go to [this website](https://unity3d.com/get-unity/download/archive) and download this version(Unity 2018.4.18). Download unity hub and download the version of unity.
 
@@ -75,7 +75,7 @@ Though I came into a problem, when i followed the video, I realised that
 ## Engineering Rehibilitation meeting
 We went to improve our slides, we put one or two research papers into the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5MjE1OTczLC05NzQ3MDc3MjQsNjY0ND
+eyJoaXN0b3J5IjpbNDExMTY3NjY0LC05NzQ3MDc3MjQsNjY0ND
 M1MzM4LC0xNzgyNjI5MTk4LDQxMjQ3NzAyOCw2NTc0ODUxNjAs
 LTEyODMwODk3NTUsLTEyMjAxNjQ3ODksNDcyMzMxMzU1LDk0MD
 YzOTMyOSwxMzI2NTAxNzU0LC0xNjY5MzIzNDA3LC00NDgyNTQw
