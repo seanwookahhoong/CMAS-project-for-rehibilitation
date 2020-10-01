@@ -73,9 +73,9 @@ Though I came into a problem, when i followed the video, at 17:16, I was unable 
 
 # Week 3
 ## Engineering Rehibilitation meeting
-We went to improve our slides, we put one or two research papers and did slides for each of our products. Mr Kumar, our lecturer saw our slides again and he said that there needs to be more 
+We went to improve our slides, we put one or two research papers and did slides for each of our products. Mr Kumar, our lecturer saw our slides again and he said that there needs to be more explaination about the rehabilitation process and our slides need to convince doctors to take upon our prototypes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjcwMjA3OCw1Njg5Njk5MDYsLTk3ND
+eyJoaXN0b3J5IjpbLTEzMzQ1NzU1Niw1Njg5Njk5MDYsLTk3ND
 cwNzcyNCw2NjQ0MzUzMzgsLTE3ODI2MjkxOTgsNDEyNDc3MDI4
 LDY1NzQ4NTE2MCwtMTI4MzA4OTc1NSwtMTIyMDE2NDc4OSw0Nz
 IzMzEzNTUsOTQwNjM5MzI5LDEzMjY1MDE3NTQsLTE2NjkzMjM0
