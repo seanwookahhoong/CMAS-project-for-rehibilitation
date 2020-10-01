@@ -72,14 +72,15 @@ After that, I watched [this video](https://www.youtube.com/watch?v=bkE1YSSdOLU) 
 Though I came into a problem, when i followed the video, at 17:16, I was unable to drag the game object like he did.
 
 # Week 3
-## Engineering Rehibilitation meeting
+## Reflection
+### Engineering Rehibilitation meeting
 We went to improve our slides, we put one or two research papers and did slides for each of our products. Mr Kumar, our lecturer saw our slides again and he said that there needs to be more explaination about the rehabilitation process and our slides need to convince doctors to take upon our prototypes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQ1NzU1Niw1Njg5Njk5MDYsLTk3ND
-cwNzcyNCw2NjQ0MzUzMzgsLTE3ODI2MjkxOTgsNDEyNDc3MDI4
-LDY1NzQ4NTE2MCwtMTI4MzA4OTc1NSwtMTIyMDE2NDc4OSw0Nz
-IzMzEzNTUsOTQwNjM5MzI5LDEzMjY1MDE3NTQsLTE2NjkzMjM0
-MDcsLTQ0ODI1NDA0NywtOTc5MjIyNTc3LC04ODM2NDAxLC0xND
-cxNzAwMjU1LC02NTg2NDk1NTIsLTIwMDU2NzUzODEsLTE5NDg1
-NjgyNDhdfQ==
+eyJoaXN0b3J5IjpbLTIwMzMxMzMzNzAsNTY4OTY5OTA2LC05Nz
+Q3MDc3MjQsNjY0NDM1MzM4LC0xNzgyNjI5MTk4LDQxMjQ3NzAy
+OCw2NTc0ODUxNjAsLTEyODMwODk3NTUsLTEyMjAxNjQ3ODksND
+cyMzMxMzU1LDk0MDYzOTMyOSwxMzI2NTAxNzU0LC0xNjY5MzIz
+NDA3LC00NDgyNTQwNDcsLTk3OTIyMjU3NywtODgzNjQwMSwtMT
+Q3MTcwMDI1NSwtNjU4NjQ5NTUyLC0yMDA1Njc1MzgxLC0xOTQ4
+NTY4MjQ4XX0=
 -->
