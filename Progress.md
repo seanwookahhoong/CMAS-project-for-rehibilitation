@@ -1,4 +1,4 @@
-# Thing to note:
+# DISCLAIMER
 This is my reflection when doing this project so it is going to have my thoughts on what i felt about the project.
 I will be splitting the progress report by weeks, then I will further split between my reflections and the actual how to dos for future reference or future interns. I will be marking the how to dos with **``(Tutorial)``** so you don't have to read the whole document
 
@@ -75,7 +75,7 @@ Though I came into a problem, when i followed the video, I realised that
 ## Engineering Rehibilitation meeting
 We went to improve our slides, we put one or two research papers into the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjcwNDI4OSwtOTc0NzA3NzI0LDY2ND
+eyJoaXN0b3J5IjpbLTQxNTI2NzI3MSwtOTc0NzA3NzI0LDY2ND
 QzNTMzOCwtMTc4MjYyOTE5OCw0MTI0NzcwMjgsNjU3NDg1MTYw
 LC0xMjgzMDg5NzU1LC0xMjIwMTY0Nzg5LDQ3MjMzMTM1NSw5ND
 A2MzkzMjksMTMyNjUwMTc1NCwtMTY2OTMyMzQwNywtNDQ4MjU0
