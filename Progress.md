@@ -69,17 +69,17 @@ Then, used this tutorial called [roll a ball](https://learn.unity.com/project/ro
 
 After that, I watched [this video](https://www.youtube.com/watch?v=bkE1YSSdOLU) as reference for making the piano in unity
 
-Though I came into a problem, when i followed the video, at 17:16, I was unable to drag the game object like he did
+Though I came into a problem, when i followed the video, at 17:16, I was unable to drag the game object like he did.
 
 # Week 3
 ## Engineering Rehibilitation meeting
 We went to improve our slides, we put one or two research papers into the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTc3NjkxOCwtOTc0NzA3NzI0LDY2ND
-QzNTMzOCwtMTc4MjYyOTE5OCw0MTI0NzcwMjgsNjU3NDg1MTYw
-LC0xMjgzMDg5NzU1LC0xMjIwMTY0Nzg5LDQ3MjMzMTM1NSw5ND
-A2MzkzMjksMTMyNjUwMTc1NCwtMTY2OTMyMzQwNywtNDQ4MjU0
-MDQ3LC05NzkyMjI1NzcsLTg4MzY0MDEsLTE0NzE3MDAyNTUsLT
-Y1ODY0OTU1MiwtMjAwNTY3NTM4MSwtMTk0ODU2ODI0OCw0NjM5
-NzQ0XX0=
+eyJoaXN0b3J5IjpbNTY4OTY5OTA2LC05NzQ3MDc3MjQsNjY0ND
+M1MzM4LC0xNzgyNjI5MTk4LDQxMjQ3NzAyOCw2NTc0ODUxNjAs
+LTEyODMwODk3NTUsLTEyMjAxNjQ3ODksNDcyMzMxMzU1LDk0MD
+YzOTMyOSwxMzI2NTAxNzU0LC0xNjY5MzIzNDA3LC00NDgyNTQw
+NDcsLTk3OTIyMjU3NywtODgzNjQwMSwtMTQ3MTcwMDI1NSwtNj
+U4NjQ5NTUyLC0yMDA1Njc1MzgxLC0xOTQ4NTY4MjQ4LDQ2Mzk3
+NDRdfQ==
 -->
