@@ -49,11 +49,12 @@ I have been busy with a project called TIP in the first week and thus I was able
 
 ## Engineering rehibilitation meeting
 We met during the first week and we were discussing about how we could combine our ideas together here are the sildes we presented to our lecturers
-he said that there needs to be 1-2 research papers to back up our data. Also the flowchart needs to be more detailed.
-He also said to explain our product mo
+he said that there needs to be 1-2 research papers/ newspaper articles to back up our data. Also the flowchart needs to be more detailed.
+He also said to explain each of our project more.
 
 ## Piano making
 Firstly, I watched this course called ["Learning C#"](https://www.linkedin.com/learning/learning-c-sharp-3/welcome?u=2122804) and learnt about the basics of C# and it is used to do scripting for making games
+
 
 
 Then, used this [tutorial](https://learn.unity.com/project/roll-a-ball) where I learnt the basics of unity and how it works.
@@ -66,7 +67,7 @@ Though I came into a problem, when i followed the video, I realised that
 ## Engineering Rehibilitation meeting
 We went to improve our slides, we put one or two research papers into the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzA5ODYyNywtOTc0NzA3NzI0LDY2ND
+eyJoaXN0b3J5IjpbLTQ2ODg0OTUxMywtOTc0NzA3NzI0LDY2ND
 QzNTMzOCwtMTc4MjYyOTE5OCw0MTI0NzcwMjgsNjU3NDg1MTYw
 LC0xMjgzMDg5NzU1LC0xMjIwMTY0Nzg5LDQ3MjMzMTM1NSw5ND
 A2MzkzMjksMTMyNjUwMTc1NCwtMTY2OTMyMzQwNywtNDQ4MjU0
