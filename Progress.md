@@ -31,15 +31,18 @@ These are the problems:
 He also taught me how to set up my computer for the project, here's how he did it
 ## Download procedure
 
-#### Step 1: Download relevant software
+### Step 1: Download relevant software
 First, go to [this website](https://unity3d.com/get-unity/download/archive) and download this version(Unity 2018.4.18). Download unity hub and download the version of unity.
 
 Then, to go the [leap motion SDK webiste](https://developer.leapmotion.com/sdk-leap-motion-controller/) and download for you relevant OS system. You will now be able to use the leap motion controllerfor your project.
 You also need to go to [this website](https://developer.leapmotion.com/unity) and install the required unity packages needed to create games in unity
-You should put all of the leap motion controller stuff in one folder in your
+
+**You should put all of the leap motion controller stuff in one folder in your desktop for convinience purposes**
 
 
-#### Step 2: unzip file and install unity
+
+
+### Step 2: unzip file and install unity
 Now, after you have dowloaded the SDK, now unzip it. Use 7-zip to do it or use winrar
 
 
@@ -70,11 +73,11 @@ Though I came into a problem, when i followed the video, I realised that
 ## Engineering Rehibilitation meeting
 We went to improve our slides, we put one or two research papers into the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwMTEyMzQ1LC05NzQ3MDc3MjQsNjY0ND
-M1MzM4LC0xNzgyNjI5MTk4LDQxMjQ3NzAyOCw2NTc0ODUxNjAs
-LTEyODMwODk3NTUsLTEyMjAxNjQ3ODksNDcyMzMxMzU1LDk0MD
-YzOTMyOSwxMzI2NTAxNzU0LC0xNjY5MzIzNDA3LC00NDgyNTQw
-NDcsLTk3OTIyMjU3NywtODgzNjQwMSwtMTQ3MTcwMDI1NSwtNj
-U4NjQ5NTUyLC0yMDA1Njc1MzgxLC0xOTQ4NTY4MjQ4LDQ2Mzk3
-NDRdfQ==
+eyJoaXN0b3J5IjpbLTEwNDI2MDk5NDIsLTk3NDcwNzcyNCw2Nj
+Q0MzUzMzgsLTE3ODI2MjkxOTgsNDEyNDc3MDI4LDY1NzQ4NTE2
+MCwtMTI4MzA4OTc1NSwtMTIyMDE2NDc4OSw0NzIzMzEzNTUsOT
+QwNjM5MzI5LDEzMjY1MDE3NTQsLTE2NjkzMjM0MDcsLTQ0ODI1
+NDA0NywtOTc5MjIyNTc3LC04ODM2NDAxLC0xNDcxNzAwMjU1LC
+02NTg2NDk1NTIsLTIwMDU2NzUzODEsLTE5NDg1NjgyNDgsNDYz
+OTc0NF19
 -->
