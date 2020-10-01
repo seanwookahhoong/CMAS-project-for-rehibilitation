@@ -32,7 +32,7 @@ He also taught me how to set up my computer for the project, here's how he did i
 ## Download procedure
 
 #### Step 1: Download relevant software
-First, go to [this website](https://unity3d.com/get-unity/download/archive) and download this version(Unity 2018.4.18). If you haven't download unity before, download it though your operating system
+First, go to [this website](https://unity3d.com/get-unity/download/archive) and download this version(Unity 2018.4.18). Download unity hub an
 
 Then, to go the [leap motion SDK webiste](https://developer.leapmotion.com/sdk-leap-motion-controller/) and download for you relevant OS system
 
@@ -67,7 +67,7 @@ Though I came into a problem, when i followed the video, I realised that
 ## Engineering Rehibilitation meeting
 We went to improve our slides, we put one or two research papers into the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgwMTY5NzI3LC05NzQ3MDc3MjQsNjY0ND
+eyJoaXN0b3J5IjpbODA4NDMxMDg0LC05NzQ3MDc3MjQsNjY0ND
 M1MzM4LC0xNzgyNjI5MTk4LDQxMjQ3NzAyOCw2NTc0ODUxNjAs
 LTEyODMwODk3NTUsLTEyMjAxNjQ3ODksNDcyMzMxMzU1LDk0MD
 YzOTMyOSwxMzI2NTAxNzU0LC0xNjY5MzIzNDA3LC00NDgyNTQw
