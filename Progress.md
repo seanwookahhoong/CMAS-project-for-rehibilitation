@@ -76,11 +76,11 @@ Though I came into a problem, when I followed the video, at 17:16, I was unable 
 ### Engineering Rehibilitation meeting
 We went to improve our slides, we put one or two research papers and did slide for each of our products. Mr Kumar, our lecturer saw our slides again and he said that there needs to be more explanation about the rehabilitation process and our slides need to convince doctors to take upon our prototypes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3MjY3NjY0LDE2NjQ3OTU4MjUsMjkzOT
-Q2MTIsLTIwMzMxMzMzNzAsNTY4OTY5OTA2LC05NzQ3MDc3MjQs
-NjY0NDM1MzM4LC0xNzgyNjI5MTk4LDQxMjQ3NzAyOCw2NTc0OD
-UxNjAsLTEyODMwODk3NTUsLTEyMjAxNjQ3ODksNDcyMzMxMzU1
-LDk0MDYzOTMyOSwxMzI2NTAxNzU0LC0xNjY5MzIzNDA3LC00ND
-gyNTQwNDcsLTk3OTIyMjU3NywtODgzNjQwMSwtMTQ3MTcwMDI1
-NV19
+eyJoaXN0b3J5IjpbMTY2NDc5NTgyNSwzNzcyNjc2NjQsMTY2ND
+c5NTgyNSwyOTM5NDYxMiwtMjAzMzEzMzM3MCw1Njg5Njk5MDYs
+LTk3NDcwNzcyNCw2NjQ0MzUzMzgsLTE3ODI2MjkxOTgsNDEyND
+c3MDI4LDY1NzQ4NTE2MCwtMTI4MzA4OTc1NSwtMTIyMDE2NDc4
+OSw0NzIzMzEzNTUsOTQwNjM5MzI5LDEzMjY1MDE3NTQsLTE2Nj
+kzMjM0MDcsLTQ0ODI1NDA0NywtOTc5MjIyNTc3LC04ODM2NDAx
+XX0=
 -->
