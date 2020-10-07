@@ -1,4 +1,4 @@
-# DISCLAIMERgrgrgr
+# DISCLAIMER
 This is my reflection when doing this project so it is going to have my thoughts on what I felt about the project.
 I will be splitting the progress report by weeks, then I will further split between my reflections and the actual how to-dos for future reference or future interns. I will be marking the how to-dos with **``(Tutorial)``** so you don't have to read the whole document
 
