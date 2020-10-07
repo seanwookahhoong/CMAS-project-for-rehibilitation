@@ -1,4 +1,4 @@
-# DISCLAIMER
+# DISCLAIMERgrgrgr
 This is my reflection when doing this project so it is going to have my thoughts on what I felt about the project.
 I will be splitting the progress report by weeks, then I will further split between my reflections and the actual how to-dos for future reference or future interns. I will be marking the how to-dos with **``(Tutorial)``** so you don't have to read the whole document
 
@@ -76,11 +76,11 @@ Though I came into a problem, when I followed the video, at 17:16, I was unable 
 ### Engineering Rehibilitation meeting
 We went to improve our slides, we put one or two research papers and did slide for each of our products. Mr Kumar, our lecturer saw our slides again and he said that there needs to be more explanation about the rehabilitation process and our slides need to convince doctors to take upon our prototypes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDc5NTgyNSwyOTM5NDYxMiwtMjAzMz
-EzMzM3MCw1Njg5Njk5MDYsLTk3NDcwNzcyNCw2NjQ0MzUzMzgs
-LTE3ODI2MjkxOTgsNDEyNDc3MDI4LDY1NzQ4NTE2MCwtMTI4Mz
-A4OTc1NSwtMTIyMDE2NDc4OSw0NzIzMzEzNTUsOTQwNjM5MzI5
-LDEzMjY1MDE3NTQsLTE2NjkzMjM0MDcsLTQ0ODI1NDA0NywtOT
-c5MjIyNTc3LC04ODM2NDAxLC0xNDcxNzAwMjU1LC02NTg2NDk1
-NTJdfQ==
+eyJoaXN0b3J5IjpbMzc3MjY3NjY0LDE2NjQ3OTU4MjUsMjkzOT
+Q2MTIsLTIwMzMxMzMzNzAsNTY4OTY5OTA2LC05NzQ3MDc3MjQs
+NjY0NDM1MzM4LC0xNzgyNjI5MTk4LDQxMjQ3NzAyOCw2NTc0OD
+UxNjAsLTEyODMwODk3NTUsLTEyMjAxNjQ3ODksNDcyMzMxMzU1
+LDk0MDYzOTMyOSwxMzI2NTAxNzU0LC0xNjY5MzIzNDA3LC00ND
+gyNTQwNDcsLTk3OTIyMjU3NywtODgzNjQwMSwtMTQ3MTcwMDI1
+NV19
 -->
