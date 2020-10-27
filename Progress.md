@@ -87,13 +87,16 @@ https://www.youtube.com/watch?v=YtzIXCKr8Wo&feature=youtu.be
 
 
 do a dropdown menu --> change the size of ball and the height of the hoop
+make astetics for the 
+fix the eternal falling ball problem
+optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDA3MTMyMiw3ODkzMDY3NjMsNzkyND
-MwNjcxLDE0MTIzODk1NDQsMTY2NDc5NTgyNSwzNzcyNjc2NjQs
-MTY2NDc5NTgyNSwyOTM5NDYxMiwtMjAzMzEzMzM3MCw1Njg5Nj
-k5MDYsLTk3NDcwNzcyNCw2NjQ0MzUzMzgsLTE3ODI2MjkxOTgs
-NDEyNDc3MDI4LDY1NzQ4NTE2MCwtMTI4MzA4OTc1NSwtMTIyMD
-E2NDc4OSw0NzIzMzEzNTUsOTQwNjM5MzI5LDEzMjY1MDE3NTRd
-fQ==
+eyJoaXN0b3J5IjpbLTY1Nzk4NjUzLDc4OTMwNjc2Myw3OTI0Mz
+A2NzEsMTQxMjM4OTU0NCwxNjY0Nzk1ODI1LDM3NzI2NzY2NCwx
+NjY0Nzk1ODI1LDI5Mzk0NjEyLC0yMDMzMTMzMzcwLDU2ODk2OT
+kwNiwtOTc0NzA3NzI0LDY2NDQzNTMzOCwtMTc4MjYyOTE5OCw0
+MTI0NzcwMjgsNjU3NDg1MTYwLC0xMjgzMDg5NzU1LC0xMjIwMT
+Y0Nzg5LDQ3MjMzMTM1NSw5NDA2MzkzMjksMTMyNjUwMTc1NF19
+
 -->
