@@ -68,7 +68,7 @@ For a quicker tutorial, go to the [W3 schools C# tutorial](https://www.w3schools
 Then, used this tutorial called [roll a ball](https://learn.unity.com/project/roll-a-ball) where I learnt the basics of unity and how it works. Make sure you follow the tutorial that corresponds to the version of unity you are using
 
 After that, I watched [this video](https://www.youtube.com/watch?v=bkE1YSSdOLU) as reference for making the piano in unity 
-If you want a TLDR, The piano is bascially button as the key 
+If you want a TLDR, The piano is bascially the keys of the piano are buttons and those button is attached to a script that plays a waveform file. 
 # Week 3-4
 ## Reflection
 ### Engineering Rehibilitation meeting
@@ -90,11 +90,11 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzIzNzM2MzQsMTg5NDczNzU4LDc4OT
-MwNjc2Myw3OTI0MzA2NzEsMTQxMjM4OTU0NCwxNjY0Nzk1ODI1
-LDM3NzI2NzY2NCwxNjY0Nzk1ODI1LDI5Mzk0NjEyLC0yMDMzMT
-MzMzcwLDU2ODk2OTkwNiwtOTc0NzA3NzI0LDY2NDQzNTMzOCwt
-MTc4MjYyOTE5OCw0MTI0NzcwMjgsNjU3NDg1MTYwLC0xMjgzMD
-g5NzU1LC0xMjIwMTY0Nzg5LDQ3MjMzMTM1NSw5NDA2MzkzMjld
-fQ==
+eyJoaXN0b3J5IjpbOTE5NDk2MzUwLDE4OTQ3Mzc1OCw3ODkzMD
+Y3NjMsNzkyNDMwNjcxLDE0MTIzODk1NDQsMTY2NDc5NTgyNSwz
+NzcyNjc2NjQsMTY2NDc5NTgyNSwyOTM5NDYxMiwtMjAzMzEzMz
+M3MCw1Njg5Njk5MDYsLTk3NDcwNzcyNCw2NjQ0MzUzMzgsLTE3
+ODI2MjkxOTgsNDEyNDc3MDI4LDY1NzQ4NTE2MCwtMTI4MzA4OT
+c1NSwtMTIyMDE2NDc4OSw0NzIzMzEzNTUsOTQwNjM5MzI5XX0=
+
 -->
