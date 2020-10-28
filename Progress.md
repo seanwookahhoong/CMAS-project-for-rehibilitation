@@ -73,7 +73,7 @@ If you want a TLDR, The piano is bascially the keys of the piano are buttons and
 ## Reflection
 ### Engineering Rehibilitation meeting
 We went to improve our slides, we put one or two research papers and did slide for each of our products. Mr Kumar, our lecturer saw our slides again. He said that we need to ut the slides and condense the inportant parts into one or two slides. Also he said that we needed to have a visual representation for the activities that our persona was going to take, like a journey map. [This is the result](https://docs.google.com/presentation/d/1vsQg8oJ8cghKpDwymf43qRa_E8egsArUv6SBYQWkEuQ/edit?usp=sharing)
-With our final slides ready, we just had to wait for the persenatation wot
+With our final slides ready, we just had to wait for the persenatation with the director of our school
 
 https://www.youtube.com/watch?v=YtzIXCKr8Wo&feature=youtu.be
 
@@ -84,11 +84,11 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTg4MTc2MywxODk0NzM3NTgsNzg5Mz
-A2NzYzLDc5MjQzMDY3MSwxNDEyMzg5NTQ0LDE2NjQ3OTU4MjUs
-Mzc3MjY3NjY0LDE2NjQ3OTU4MjUsMjkzOTQ2MTIsLTIwMzMxMz
-MzNzAsNTY4OTY5OTA2LC05NzQ3MDc3MjQsNjY0NDM1MzM4LC0x
-NzgyNjI5MTk4LDQxMjQ3NzAyOCw2NTc0ODUxNjAsLTEyODMwOD
-k3NTUsLTEyMjAxNjQ3ODksNDcyMzMxMzU1LDk0MDYzOTMyOV19
+eyJoaXN0b3J5IjpbMTIxNjMyMjQzLDE4OTQ3Mzc1OCw3ODkzMD
+Y3NjMsNzkyNDMwNjcxLDE0MTIzODk1NDQsMTY2NDc5NTgyNSwz
+NzcyNjc2NjQsMTY2NDc5NTgyNSwyOTM5NDYxMiwtMjAzMzEzMz
+M3MCw1Njg5Njk5MDYsLTk3NDcwNzcyNCw2NjQ0MzUzMzgsLTE3
+ODI2MjkxOTgsNDEyNDc3MDI4LDY1NzQ4NTE2MCwtMTI4MzA4OT
+c1NSwtMTIyMDE2NDc4OSw0NzIzMzEzNTUsOTQwNjM5MzI5XX0=
 
 -->
