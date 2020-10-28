@@ -72,14 +72,8 @@ If you want a TLDR, The piano is bascially the keys of the piano are buttons and
 # Week 3-4
 ## Reflection
 ### Engineering Rehibilitation meeting
-We went to improve our slides, we put one or two research papers and did slide for each of our products. Mr Kumar, our lecturer saw our slides again. He said that we need to ut the slides and condense the inportant parts into one or two slides. Also he said that we needed to have a visual representation for the activities that our persona was going to take, like a journey map. This is the result
-
-
-C:/desktop/FYP_Unity_work/Completed_games/Mr_Kumar_piano/Songs/song1.txt
-
-
-
-D:/music_therapy/CMTS_27_2_2020/songs/song1.txt
+We went to improve our slides, we put one or two research papers and did slide for each of our products. Mr Kumar, our lecturer saw our slides again. He said that we need to ut the slides and condense the inportant parts into one or two slides. Also he said that we needed to have a visual representation for the activities that our persona was going to take, like a journey map. [This is the result](https://docs.google.com/presentation/d/1vsQg8oJ8cghKpDwymf43qRa_E8egsArUv6SBYQWkEuQ/edit?usp=sharing)
+With our final slides ready, we just had to wait for the persenatation wot
 
 https://www.youtube.com/watch?v=YtzIXCKr8Wo&feature=youtu.be
 
@@ -90,11 +84,11 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQ3NzQ1NTksMTg5NDczNzU4LDc4OT
-MwNjc2Myw3OTI0MzA2NzEsMTQxMjM4OTU0NCwxNjY0Nzk1ODI1
-LDM3NzI2NzY2NCwxNjY0Nzk1ODI1LDI5Mzk0NjEyLC0yMDMzMT
-MzMzcwLDU2ODk2OTkwNiwtOTc0NzA3NzI0LDY2NDQzNTMzOCwt
-MTc4MjYyOTE5OCw0MTI0NzcwMjgsNjU3NDg1MTYwLC0xMjgzMD
-g5NzU1LC0xMjIwMTY0Nzg5LDQ3MjMzMTM1NSw5NDA2MzkzMjld
-fQ==
+eyJoaXN0b3J5IjpbLTk4MTg4MTc2MywxODk0NzM3NTgsNzg5Mz
+A2NzYzLDc5MjQzMDY3MSwxNDEyMzg5NTQ0LDE2NjQ3OTU4MjUs
+Mzc3MjY3NjY0LDE2NjQ3OTU4MjUsMjkzOTQ2MTIsLTIwMzMxMz
+MzNzAsNTY4OTY5OTA2LC05NzQ3MDc3MjQsNjY0NDM1MzM4LC0x
+NzgyNjI5MTk4LDQxMjQ3NzAyOCw2NTc0ODUxNjAsLTEyODMwOD
+k3NTUsLTEyMjAxNjQ3ODksNDcyMzMxMzU1LDk0MDYzOTMyOV19
+
 -->
