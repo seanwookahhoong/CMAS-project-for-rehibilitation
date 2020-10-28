@@ -72,7 +72,7 @@ If you want a TLDR, The piano is bascially the keys of the piano are buttons and
 # Week 3-4
 ## Reflection
 ### Engineering Rehibilitation meeting
-We went to improve our slides, we put one or two research papers and did slide for each of our products. Mr Kumar, our lecturer saw our slides again and he said that there needs to be more explanation about the rehabilitation process and our slides need to convince doctors to take upon our prototypes. Also he said that we needed to have a visual representation for the activities that our persona was going to take
+We went to improve our slides, we put one or two research papers and did slide for each of our products. Mr Kumar, our lecturer saw our slides again. He said that we need to ut the Also he said that we needed to have a visual representation for the activities that our persona was going to take
 
 
 C:/desktop/FYP_Unity_work/Completed_games/Mr_Kumar_piano/Songs/song1.txt
@@ -90,11 +90,11 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTYwNzYxOSwxODk0NzM3NTgsNzg5Mz
-A2NzYzLDc5MjQzMDY3MSwxNDEyMzg5NTQ0LDE2NjQ3OTU4MjUs
-Mzc3MjY3NjY0LDE2NjQ3OTU4MjUsMjkzOTQ2MTIsLTIwMzMxMz
-MzNzAsNTY4OTY5OTA2LC05NzQ3MDc3MjQsNjY0NDM1MzM4LC0x
-NzgyNjI5MTk4LDQxMjQ3NzAyOCw2NTc0ODUxNjAsLTEyODMwOD
-k3NTUsLTEyMjAxNjQ3ODksNDcyMzMxMzU1LDk0MDYzOTMyOV19
+eyJoaXN0b3J5IjpbNzIzMDA1OTgwLDE4OTQ3Mzc1OCw3ODkzMD
+Y3NjMsNzkyNDMwNjcxLDE0MTIzODk1NDQsMTY2NDc5NTgyNSwz
+NzcyNjc2NjQsMTY2NDc5NTgyNSwyOTM5NDYxMiwtMjAzMzEzMz
+M3MCw1Njg5Njk5MDYsLTk3NDcwNzcyNCw2NjQ0MzUzMzgsLTE3
+ODI2MjkxOTgsNDEyNDc3MDI4LDY1NzQ4NTE2MCwtMTI4MzA4OT
+c1NSwtMTIyMDE2NDc4OSw0NzIzMzEzNTUsOTQwNjM5MzI5XX0=
 
 -->
