@@ -67,10 +67,8 @@ For a quicker tutorial, go to the [W3 schools C# tutorial](https://www.w3schools
 
 Then, used this tutorial called [roll a ball](https://learn.unity.com/project/roll-a-ball) where I learnt the basics of unity and how it works. Make sure you follow the tutorial that corresponds to the version of unity you are using
 
-After that, I watched [this video](https://www.youtube.com/watch?v=bkE1YSSdOLU) as reference for making the piano in unity
-
-Though I came into a problem, when I followed the video, at 17:16, I was unable to drag the game object as he did.
-
+After that, I watched [this video](https://www.youtube.com/watch?v=bkE1YSSdOLU) as reference for making the piano in unity 
+If you want a TLDR, The piano is bascially 
 # Week 3-4
 ## Reflection
 ### Engineering Rehibilitation meeting
@@ -92,11 +90,11 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDczNzU4LDc4OTMwNjc2Myw3OTI0Mz
-A2NzEsMTQxMjM4OTU0NCwxNjY0Nzk1ODI1LDM3NzI2NzY2NCwx
-NjY0Nzk1ODI1LDI5Mzk0NjEyLC0yMDMzMTMzMzcwLDU2ODk2OT
-kwNiwtOTc0NzA3NzI0LDY2NDQzNTMzOCwtMTc4MjYyOTE5OCw0
-MTI0NzcwMjgsNjU3NDg1MTYwLC0xMjgzMDg5NzU1LC0xMjIwMT
-Y0Nzg5LDQ3MjMzMTM1NSw5NDA2MzkzMjksMTMyNjUwMTc1NF19
+eyJoaXN0b3J5IjpbLTMxNzU1NzI5OCwxODk0NzM3NTgsNzg5Mz
+A2NzYzLDc5MjQzMDY3MSwxNDEyMzg5NTQ0LDE2NjQ3OTU4MjUs
+Mzc3MjY3NjY0LDE2NjQ3OTU4MjUsMjkzOTQ2MTIsLTIwMzMxMz
+MzNzAsNTY4OTY5OTA2LC05NzQ3MDc3MjQsNjY0NDM1MzM4LC0x
+NzgyNjI5MTk4LDQxMjQ3NzAyOCw2NTc0ODUxNjAsLTEyODMwOD
+k3NTUsLTEyMjAxNjQ3ODksNDcyMzMxMzU1LDk0MDYzOTMyOV19
 
 -->
