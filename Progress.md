@@ -72,7 +72,8 @@ Then, used this tutorial called [roll a ball](https://learn.unity.com/project/ro
 After that, I watched [this video](https://www.youtube.com/watch?v=bkE1YSSdOLU) as reference for making the piano in unity 
 If you want a TLDR, The piano is bascially the keys of the piano are buttons and those button is attached to a script that plays a waveform file. 
 
-I highly recomend you to learn
+### Things
+I highly recomend you to learn much more stuff about the unity engine as this stuff is very bare bones and is meant to help you to start understanding. I recomend you 
 # Week 3-4
 ## Reflection
 ### Engineering Rehibilitation meeting
@@ -87,11 +88,11 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTExMDUyOCwzMDY2NDcyNTUsMTIxNj
-MyMjQzLDE4OTQ3Mzc1OCw3ODkzMDY3NjMsNzkyNDMwNjcxLDE0
-MTIzODk1NDQsMTY2NDc5NTgyNSwzNzcyNjc2NjQsMTY2NDc5NT
-gyNSwyOTM5NDYxMiwtMjAzMzEzMzM3MCw1Njg5Njk5MDYsLTk3
-NDcwNzcyNCw2NjQ0MzUzMzgsLTE3ODI2MjkxOTgsNDEyNDc3MD
-I4LDY1NzQ4NTE2MCwtMTI4MzA4OTc1NSwtMTIyMDE2NDc4OV19
-
+eyJoaXN0b3J5IjpbLTE2NzY0NzE4NTMsMzA2NjQ3MjU1LDEyMT
+YzMjI0MywxODk0NzM3NTgsNzg5MzA2NzYzLDc5MjQzMDY3MSwx
+NDEyMzg5NTQ0LDE2NjQ3OTU4MjUsMzc3MjY3NjY0LDE2NjQ3OT
+U4MjUsMjkzOTQ2MTIsLTIwMzMxMzMzNzAsNTY4OTY5OTA2LC05
+NzQ3MDc3MjQsNjY0NDM1MzM4LC0xNzgyNjI5MTk4LDQxMjQ3Nz
+AyOCw2NTc0ODUxNjAsLTEyODMwODk3NTUsLTEyMjAxNjQ3ODld
+fQ==
 -->
