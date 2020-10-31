@@ -37,10 +37,13 @@ These are the problems:
 First, go to [this website](https://unity3d.com/get-unity/download/archive) and download this version(Unity 2018.4.18). Download unity hub and download the version of unity.
 
 Then, to go the [leap motion SDK webiste](https://developer.leapmotion.com/sdk-leap-motion-controller/) and download for you relevant OS system. You will now be able to use the leap motion controller for your project.
-You also need to go to [this website](https://developer.leapmotion.com/unity) and install the required unity packages needed to create games in unity*
+You also need to go to [this website](https://developer.leapmotion.com/unity) and install the required unity packages needed to create games in unity
 
 **You should put all of the leap motion controller stuff in one folder in your desktop for convenience purposes**
-*
+
+### Step 2: Setting up software
+
+
 
 
 
@@ -84,11 +87,11 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjMyMjQzLDE4OTQ3Mzc1OCw3ODkzMD
-Y3NjMsNzkyNDMwNjcxLDE0MTIzODk1NDQsMTY2NDc5NTgyNSwz
-NzcyNjc2NjQsMTY2NDc5NTgyNSwyOTM5NDYxMiwtMjAzMzEzMz
-M3MCw1Njg5Njk5MDYsLTk3NDcwNzcyNCw2NjQ0MzUzMzgsLTE3
-ODI2MjkxOTgsNDEyNDc3MDI4LDY1NzQ4NTE2MCwtMTI4MzA4OT
-c1NSwtMTIyMDE2NDc4OSw0NzIzMzEzNTUsOTQwNjM5MzI5XX0=
+eyJoaXN0b3J5IjpbLTQwNDk2NTQyNiwxMjE2MzIyNDMsMTg5ND
+czNzU4LDc4OTMwNjc2Myw3OTI0MzA2NzEsMTQxMjM4OTU0NCwx
+NjY0Nzk1ODI1LDM3NzI2NzY2NCwxNjY0Nzk1ODI1LDI5Mzk0Nj
+EyLC0yMDMzMTMzMzcwLDU2ODk2OTkwNiwtOTc0NzA3NzI0LDY2
+NDQzNTMzOCwtMTc4MjYyOTE5OCw0MTI0NzcwMjgsNjU3NDg1MT
+YwLC0xMjgzMDg5NzU1LC0xMjIwMTY0Nzg5LDQ3MjMzMTM1NV19
 
 -->
