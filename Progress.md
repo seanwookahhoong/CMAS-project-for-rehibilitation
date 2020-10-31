@@ -45,7 +45,8 @@ You also need to go to [this website](https://developer.leapmotion.com/unity) an
 After you have downloaded unity, you will need to get a license from unity, go to unity hub and sign in. Use this account
 Username: ERunitymidicode
 Password: Iwanttoquitthisproject295
-After that, if the license is expired, you just renew it and say its a personal one
+After that, if the license is expired, you just renew it and say its a personal one.
+After your done with that there is nothing to do for the week
 
 # Week 1-2
 ## Reflections
@@ -85,11 +86,11 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0MDE5ODY5LDMwNjY0NzI1NSwxMjE2Mz
-IyNDMsMTg5NDczNzU4LDc4OTMwNjc2Myw3OTI0MzA2NzEsMTQx
-MjM4OTU0NCwxNjY0Nzk1ODI1LDM3NzI2NzY2NCwxNjY0Nzk1OD
-I1LDI5Mzk0NjEyLC0yMDMzMTMzMzcwLDU2ODk2OTkwNiwtOTc0
-NzA3NzI0LDY2NDQzNTMzOCwtMTc4MjYyOTE5OCw0MTI0NzcwMj
-gsNjU3NDg1MTYwLC0xMjgzMDg5NzU1LC0xMjIwMTY0Nzg5XX0=
+eyJoaXN0b3J5IjpbMTM4MDIxODY4OCwzMDY2NDcyNTUsMTIxNj
+MyMjQzLDE4OTQ3Mzc1OCw3ODkzMDY3NjMsNzkyNDMwNjcxLDE0
+MTIzODk1NDQsMTY2NDc5NTgyNSwzNzcyNjc2NjQsMTY2NDc5NT
+gyNSwyOTM5NDYxMiwtMjAzMzEzMzM3MCw1Njg5Njk5MDYsLTk3
+NDcwNzcyNCw2NjQ0MzUzMzgsLTE3ODI2MjkxOTgsNDEyNDc3MD
+I4LDY1NzQ4NTE2MCwtMTI4MzA4OTc1NSwtMTIyMDE2NDc4OV19
 
 -->
