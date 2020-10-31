@@ -1,6 +1,6 @@
 # DISCLAIMER
 This is my reflection when doing this project so it is going to have my thoughts on what I felt about the project.
-I will be splitting the progress report by weeks, then I will further split between my reflections and the actual how to-dos for future reference or future interns. I will be marking the how to-dos with **``(Tutorial)``** so you don't have to read the whole document. FInally, very important
+I will be splitting the progress report by weeks, then I will further split between my reflections and the actual how to-dos for future reference or future interns. I will be marking the how to-dos with **``(Tutorial)``** so you don't have to read the whole document. FInally, very important dsiclaimer, I highly recomend you to learn much more stuff about the unity engine as this stuff is very bare bones and is meant to help you to start understanding. I recomend you to check out the other unity tutorials to understand scripting and other stuff more
 
 # Week 0
 ## Reflections
@@ -73,11 +73,12 @@ After that, I watched [this video](https://www.youtube.com/watch?v=bkE1YSSdOLU) 
 If you want a TLDR, The piano is bascially the keys of the piano are buttons and those button is attached to a script that plays a waveform file.
 # Week 3-4
 ## Reflection
-### Engineering Rehibilitation meeting
 We went to improve our slides, we put one or two research papers and did slide for each of our products. Mr Kumar, our lecturer saw our slides again. He said that we need to ut the slides and condense the inportant parts into one or two slides. Also he said that we needed to have a visual representation for the activities that our persona was going to take, like a journey map. [This is the result](https://docs.google.com/presentation/d/1vsQg8oJ8cghKpDwymf43qRa_E8egsArUv6SBYQWkEuQ/edit?usp=sharing)
 With our final slides ready, we just had to wait for the persenatation with the director of our school
 
-## Midi Code``(Tutorial)``
+### Midi Code``(Tutorial)``
+Check 
+
 
 do a dropdown menu --> change the size of ball and the height of the hoop
 make astetics to make it more real
@@ -85,7 +86,7 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjM4NjMzNiwzMDY2NDcyNTUsMTIxNj
+eyJoaXN0b3J5IjpbMTc4MzcxOTQwMCwzMDY2NDcyNTUsMTIxNj
 MyMjQzLDE4OTQ3Mzc1OCw3ODkzMDY3NjMsNzkyNDMwNjcxLDE0
 MTIzODk1NDQsMTY2NDc5NTgyNSwzNzcyNjc2NjQsMTY2NDc5NT
 gyNSwyOTM5NDYxMiwtMjAzMzEzMzM3MCw1Njg5Njk5MDYsLTk3
