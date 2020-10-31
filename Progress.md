@@ -77,7 +77,8 @@ We went to improve our slides, we put one or two research papers and did slide f
 With our final slides ready, we just had to wait for the persenatation with the director of our school
 
 ### Midi Code``(Tutorial)``
-Check 
+Check out [this website](https://www.codeguru.com/columns/dotnet/making-music-with-midi-and-c.html) on how you should do midi code 
+It can be very confusing
 
 
 do a dropdown menu --> change the size of ball and the height of the hoop
@@ -86,7 +87,7 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzcxOTQwMCwzMDY2NDcyNTUsMTIxNj
+eyJoaXN0b3J5IjpbMTA5Mzc1OTE2MCwzMDY2NDcyNTUsMTIxNj
 MyMjQzLDE4OTQ3Mzc1OCw3ODkzMDY3NjMsNzkyNDMwNjcxLDE0
 MTIzODk1NDQsMTY2NDc5NTgyNSwzNzcyNjc2NjQsMTY2NDc5NT
 gyNSwyOTM5NDYxMiwtMjAzMzEzMzM3MCw1Njg5Njk5MDYsLTk3
