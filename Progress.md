@@ -42,7 +42,9 @@ You also need to go to [this website](https://developer.leapmotion.com/unity) an
 **You should put all of the leap motion controller stuff in one folder in your desktop for convenience purposes**
 
 ### Step 2: Setting up software
-After you have downloaded unity, you will need to get a license from unity, go to unity hub 
+After you have downloaded unity, you will need to get a license from unity, go to unity hub and sign in. Use this account
+Username: ERunitymidicode
+Password: Iwanttoquitthisproject295
 
 
 
@@ -87,11 +89,11 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzUwMTc3NSwzMDY2NDcyNTUsMTIxNj
-MyMjQzLDE4OTQ3Mzc1OCw3ODkzMDY3NjMsNzkyNDMwNjcxLDE0
-MTIzODk1NDQsMTY2NDc5NTgyNSwzNzcyNjc2NjQsMTY2NDc5NT
-gyNSwyOTM5NDYxMiwtMjAzMzEzMzM3MCw1Njg5Njk5MDYsLTk3
-NDcwNzcyNCw2NjQ0MzUzMzgsLTE3ODI2MjkxOTgsNDEyNDc3MD
-I4LDY1NzQ4NTE2MCwtMTI4MzA4OTc1NSwtMTIyMDE2NDc4OV19
-
+eyJoaXN0b3J5IjpbLTExODIzNDYwNjEsMzA2NjQ3MjU1LDEyMT
+YzMjI0MywxODk0NzM3NTgsNzg5MzA2NzYzLDc5MjQzMDY3MSwx
+NDEyMzg5NTQ0LDE2NjQ3OTU4MjUsMzc3MjY3NjY0LDE2NjQ3OT
+U4MjUsMjkzOTQ2MTIsLTIwMzMxMzMzNzAsNTY4OTY5OTA2LC05
+NzQ3MDc3MjQsNjY0NDM1MzM4LC0xNzgyNjI5MTk4LDQxMjQ3Nz
+AyOCw2NTc0ODUxNjAsLTEyODMwODk3NTUsLTEyMjAxNjQ3ODld
+fQ==
 -->
