@@ -78,7 +78,8 @@ With our final slides ready, we just had to wait for the persenatation with the 
 
 ### Midi Code``(Tutorial)``
 Check out [this website](https://www.codeguru.com/columns/dotnet/making-music-with-midi-and-c.html) on how you should do midi code 
-It can be very confusing
+It can be very confusing and basically the format for your midi code should be:
+
 
 
 do a dropdown menu --> change the size of ball and the height of the hoop
@@ -87,11 +88,11 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5Mzc1OTE2MCwzMDY2NDcyNTUsMTIxNj
-MyMjQzLDE4OTQ3Mzc1OCw3ODkzMDY3NjMsNzkyNDMwNjcxLDE0
-MTIzODk1NDQsMTY2NDc5NTgyNSwzNzcyNjc2NjQsMTY2NDc5NT
-gyNSwyOTM5NDYxMiwtMjAzMzEzMzM3MCw1Njg5Njk5MDYsLTk3
-NDcwNzcyNCw2NjQ0MzUzMzgsLTE3ODI2MjkxOTgsNDEyNDc3MD
-I4LDY1NzQ4NTE2MCwtMTI4MzA4OTc1NSwtMTIyMDE2NDc4OV19
+eyJoaXN0b3J5IjpbMjA3MzE5NDQzLDMwNjY0NzI1NSwxMjE2Mz
+IyNDMsMTg5NDczNzU4LDc4OTMwNjc2Myw3OTI0MzA2NzEsMTQx
+MjM4OTU0NCwxNjY0Nzk1ODI1LDM3NzI2NzY2NCwxNjY0Nzk1OD
+I1LDI5Mzk0NjEyLC0yMDMzMTMzMzcwLDU2ODk2OTkwNiwtOTc0
+NzA3NzI0LDY2NDQzNTMzOCwtMTc4MjYyOTE5OCw0MTI0NzcwMj
+gsNjU3NDg1MTYwLC0xMjgzMDg5NzU1LC0xMjIwMTY0Nzg5XX0=
 
 -->
