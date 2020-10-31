@@ -71,14 +71,15 @@ Then, used this tutorial called [roll a ball](https://learn.unity.com/project/ro
 
 After that, I watched [this video](https://www.youtube.com/watch?v=bkE1YSSdOLU) as reference for making the piano in unity 
 If you want a TLDR, The piano is bascially the keys of the piano are buttons and those button is attached to a script that plays a waveform file. 
+
+I highly recomend you to learn
 # Week 3-4
 ## Reflection
 ### Engineering Rehibilitation meeting
 We went to improve our slides, we put one or two research papers and did slide for each of our products. Mr Kumar, our lecturer saw our slides again. He said that we need to ut the slides and condense the inportant parts into one or two slides. Also he said that we needed to have a visual representation for the activities that our persona was going to take, like a journey map. [This is the result](https://docs.google.com/presentation/d/1vsQg8oJ8cghKpDwymf43qRa_E8egsArUv6SBYQWkEuQ/edit?usp=sharing)
 With our final slides ready, we just had to wait for the persenatation with the director of our school
 
-https://www.youtube.com/watch?v=YtzIXCKr8Wo&feature=youtu.be
-
+## Midi Code``(Tutorial)``
 
 do a dropdown menu --> change the size of ball and the height of the hoop
 make astetics to make it more real
@@ -86,7 +87,7 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDIxODY4OCwzMDY2NDcyNTUsMTIxNj
+eyJoaXN0b3J5IjpbLTUxMTExMDUyOCwzMDY2NDcyNTUsMTIxNj
 MyMjQzLDE4OTQ3Mzc1OCw3ODkzMDY3NjMsNzkyNDMwNjcxLDE0
 MTIzODk1NDQsMTY2NDc5NTgyNSwzNzcyNjc2NjQsMTY2NDc5NT
 gyNSwyOTM5NDYxMiwtMjAzMzEzMzM3MCw1Njg5Njk5MDYsLTk3
