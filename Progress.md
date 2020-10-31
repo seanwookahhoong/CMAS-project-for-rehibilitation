@@ -39,17 +39,13 @@ First, go to [this website](https://unity3d.com/get-unity/download/archive) and 
 Then, to go the [leap motion SDK webiste](https://developer.leapmotion.com/sdk-leap-motion-controller/) and download for you relevant OS system. You will now be able to use the leap motion controller for your project.
 You also need to go to [this website](https://developer.leapmotion.com/unity) and install the required unity packages needed to create games in unity
 
-**You should put all of the leap motion controller stuff in one folder in your desktop for convenience purposes**
+**You should put all of the leap motion controller stuff in one folder in your desktop for convenience purposes cause these files are very important**
 
 ### Step 2: Setting up software
 After you have downloaded unity, you will need to get a license from unity, go to unity hub and sign in. Use this account
 Username: ERunitymidicode
 Password: Iwanttoquitthisproject295
-
-
-
-
-
+After that, if the license is expired, you just renew it and say its a personal one
 
 # Week 1-2
 ## Reflections
@@ -89,11 +85,11 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODIzNDYwNjEsMzA2NjQ3MjU1LDEyMT
-YzMjI0MywxODk0NzM3NTgsNzg5MzA2NzYzLDc5MjQzMDY3MSwx
-NDEyMzg5NTQ0LDE2NjQ3OTU4MjUsMzc3MjY3NjY0LDE2NjQ3OT
-U4MjUsMjkzOTQ2MTIsLTIwMzMxMzMzNzAsNTY4OTY5OTA2LC05
-NzQ3MDc3MjQsNjY0NDM1MzM4LC0xNzgyNjI5MTk4LDQxMjQ3Nz
-AyOCw2NTc0ODUxNjAsLTEyODMwODk3NTUsLTEyMjAxNjQ3ODld
-fQ==
+eyJoaXN0b3J5IjpbOTg0MDE5ODY5LDMwNjY0NzI1NSwxMjE2Mz
+IyNDMsMTg5NDczNzU4LDc4OTMwNjc2Myw3OTI0MzA2NzEsMTQx
+MjM4OTU0NCwxNjY0Nzk1ODI1LDM3NzI2NzY2NCwxNjY0Nzk1OD
+I1LDI5Mzk0NjEyLC0yMDMzMTMzMzcwLDU2ODk2OTkwNiwtOTc0
+NzA3NzI0LDY2NDQzNTMzOCwtMTc4MjYyOTE5OCw0MTI0NzcwMj
+gsNjU3NDg1MTYwLC0xMjgzMDg5NzU1LC0xMjIwMTY0Nzg5XX0=
+
 -->
