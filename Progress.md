@@ -118,6 +118,8 @@ public class Play_midi : MonoBehaviour
     private delegate void MidiCallBack(int handle, int msg,
        int instance, int param1, int param2);
 
+* Enter the rest of you code here *
+
     [StructLayout(LayoutKind.Sequential)]
     public struct MidiOutCaps
     {
@@ -146,10 +148,11 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyMDA3ODQxLDIwNzMxOTQ0MywzMDY2ND
-cyNTUsMTIxNjMyMjQzLDE4OTQ3Mzc1OCw3ODkzMDY3NjMsNzky
-NDMwNjcxLDE0MTIzODk1NDQsMTY2NDc5NTgyNSwzNzcyNjc2Nj
-QsMTY2NDc5NTgyNSwyOTM5NDYxMiwtMjAzMzEzMzM3MCw1Njg5
-Njk5MDYsLTk3NDcwNzcyNCw2NjQ0MzUzMzgsLTE3ODI2MjkxOT
-gsNDEyNDc3MDI4LDY1NzQ4NTE2MCwtMTI4MzA4OTc1NV19
+eyJoaXN0b3J5IjpbLTE3MTM5ODM3OTksMjA3MzE5NDQzLDMwNj
+Y0NzI1NSwxMjE2MzIyNDMsMTg5NDczNzU4LDc4OTMwNjc2Myw3
+OTI0MzA2NzEsMTQxMjM4OTU0NCwxNjY0Nzk1ODI1LDM3NzI2Nz
+Y2NCwxNjY0Nzk1ODI1LDI5Mzk0NjEyLC0yMDMzMTMzMzcwLDU2
+ODk2OTkwNiwtOTc0NzA3NzI0LDY2NDQzNTMzOCwtMTc4MjYyOT
+E5OCw0MTI0NzcwMjgsNjU3NDg1MTYwLC0xMjgzMDg5NzU1XX0=
+
 -->
