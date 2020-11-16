@@ -79,7 +79,215 @@ With our final slides ready, we just had to wait for the persenatation with the 
 ### Midi Code``(Tutorial)``
 Check out [this website](https://www.codeguru.com/columns/dotnet/making-music-with-midi-and-c.html) on how you should do midi code 
 It can be very confusing and basically the format for your midi code should be:
+``
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Runtime.InteropServices;
+using System.Text;
+using System.Threading.Tasks;
+using UnityEngine;
 
+public class Play_midi : MonoBehaviour
+{
+    // Start is called before the first frame update
+    
+        
+
+    // Update is called once per frame
+    
+    int handle;
+    int res;
+    string command;
+   
+    // MCI INterface
+    [DllImport("winmm.dll")]
+    private static extern long mciSendString(string command,
+       StringBuilder returnValue, int returnLength,
+       IntPtr winHandle);
+
+    // Midi API
+    [DllImport("winmm.dll")]
+    private static extern int midiOutGetNumDevs();
+
+    [DllImport("winmm.dll")]
+    private static extern int midiOutGetDevCaps(Int32 uDeviceID,
+       ref MidiOutCaps lpMidiOutCaps, UInt32 cbMidiOutCaps);
+
+    [DllImport("winmm.dll")]
+    private static extern int midiOutOpen(ref int handle,
+       int deviceID, MidiCallBack proc, int instance, int flags);
+
+    [DllImport("winmm.dll")]
+    private static extern int midiOutShortMsg(int handle,
+       int message);
+
+    [DllImport("winmm.dll")]
+    private static extern int midiOutClose(int handle);
+
+    private delegate void MidiCallBack(int handle, int msg,
+       int instance, int param1, int param2);
+
+    static string Mci(string command)
+    {
+        int returnLength = 256;
+        StringBuilder reply = new StringBuilder(returnLength);
+        mciSendString(command, reply, returnLength, IntPtr.Zero);
+        return reply.ToString();
+    }
+
+    public void Awake()
+    {
+        Debug.Log("ActiveKeyB");
+        handle = 0;
+        var res = midiOutOpen(ref handle, 0, null, 0, 0);
+
+        /*command = string.Format("open \"C:/Users/Administrator/Documents/InhouseIntern/PractiseMidi/JINGLEBE.MID\" alias music");
+       mciSendString(command, null, 0, IntPtr.Zero);
+       var numDevs = midiOutGetNumDevs();*/
+
+        
+       
+        
+
+        MidiOutCaps myCaps = new MidiOutCaps();
+        res = midiOutGetDevCaps(0, ref myCaps, (System.UInt32)Marshal.SizeOf(myCaps));
+
+
+    }
+
+    void Start()
+    {
+ 
+        
+
+        var res = String.Empty;
+
+        Debug.Log("Pressed");
+
+        res = Mci("open \"C:/Songs_basketball/JINGLEBE.MID \" alias music");
+        res = Mci("play music");
+
+        Console.ReadLine();
+
+        res = Mci("close music");
+
+        
+    
+
+    }
+
+    
+
+    
+    
+    public void Play()
+    {
+         command = "Play music";
+        mciSendString(command, null, 0, IntPtr.Zero);
+        Console.ReadLine();
+        Debug.Log("Pressed");
+    }
+
+
+   /* public void PlayMidi()
+    {
+        var res = String.Empty;
+        
+        Debug.Log("Pressed");
+
+        res = Mci("Open \"C:/Users/Administrator/Documents/InhouseIntern/PractiseMidi/JINGLEBE.MID \" alias music");
+        res = Mci("play music");
+        
+       Console.ReadLine();
+        
+        res = Mci("close music");
+        
+    }*/
+
+
+
+    public void ActivatekeyC()
+    {
+        
+        Debug.Log("ActiveKey");
+        res = midiOutShortMsg(handle, 0x007F3B90);
+        StartCoroutine(TestSound(res, handle));
+        
+        //res = midiOutShortMsg(handle, 0x007F2A90);
+        //StartCoroutine(TestSound(res, handle));
+    }
+    public void ActivatekeyD()
+    {
+
+        Debug.Log("ActiveKey");
+        res = midiOutShortMsg(handle, 0x007F3A90);
+        StartCoroutine(TestSound(res, handle));
+    }
+    public void ActivatekeyG()
+    {
+
+        Debug.Log("ActiveKey");
+        res = midiOutShortMsg(handle, 0x007F2690);
+        StartCoroutine(TestSound(res, handle));
+    }
+    public void ActivatekeyA()
+    {
+
+        Debug.Log("ActiveKey");
+        res = midiOutShortMsg(handle, 0x007F5090);
+        StartCoroutine(TestSound(res, handle));
+    }
+    public void ActivatekeyB()
+    {
+
+        Debug.Log("ActiveKey");
+        res = midiOutShortMsg(handle, 0x007F2A90);
+        StartCoroutine(TestSound(res, handle));
+    }
+
+
+    public void update ()
+    {
+        ActivatekeyC();
+        ActivatekeyD();
+        ActivatekeyG();
+        ActivatekeyA();
+        ActivatekeyB();
+    }
+
+    public void OnDestroy()
+    {
+
+
+        res = midiOutClose(handle);
+    }
+
+    IEnumerator TestSound(int res,int handle)
+    {
+        yield return new WaitForSeconds(10);
+    }
+
+    [StructLayout(LayoutKind.Sequential)]
+    public struct MidiOutCaps
+    {
+        public UInt16 wMid;
+        public UInt16 wPid;
+        public UInt32 vDriverVersion;
+
+        [MarshalAs(UnmanagedType.ByValTStr,
+           SizeConst = 32)]
+        public String szPname;
+
+        public UInt16 wTechnology;
+        public UInt16 wVoices;
+        public UInt16 wNotes;
+        public UInt16 wChannelMask;
+        public UInt32 dwSupport;
+    }
+
+}
+``
 
 
 do a dropdown menu --> change the size of ball and the height of the hoop
@@ -88,11 +296,10 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MzE5NDQzLDMwNjY0NzI1NSwxMjE2Mz
-IyNDMsMTg5NDczNzU4LDc4OTMwNjc2Myw3OTI0MzA2NzEsMTQx
-MjM4OTU0NCwxNjY0Nzk1ODI1LDM3NzI2NzY2NCwxNjY0Nzk1OD
-I1LDI5Mzk0NjEyLC0yMDMzMTMzMzcwLDU2ODk2OTkwNiwtOTc0
-NzA3NzI0LDY2NDQzNTMzOCwtMTc4MjYyOTE5OCw0MTI0NzcwMj
-gsNjU3NDg1MTYwLC0xMjgzMDg5NzU1LC0xMjIwMTY0Nzg5XX0=
-
+eyJoaXN0b3J5IjpbNTgzNTMwNjgwLDIwNzMxOTQ0MywzMDY2ND
+cyNTUsMTIxNjMyMjQzLDE4OTQ3Mzc1OCw3ODkzMDY3NjMsNzky
+NDMwNjcxLDE0MTIzODk1NDQsMTY2NDc5NTgyNSwzNzcyNjc2Nj
+QsMTY2NDc5NTgyNSwyOTM5NDYxMiwtMjAzMzEzMzM3MCw1Njg5
+Njk5MDYsLTk3NDcwNzcyNCw2NjQ0MzUzMzgsLTE3ODI2MjkxOT
+gsNDEyNDc3MDI4LDY1NzQ4NTE2MCwtMTI4MzA4OTc1NV19
 -->
