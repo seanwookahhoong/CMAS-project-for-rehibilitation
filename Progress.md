@@ -118,7 +118,7 @@ public class Play_midi : MonoBehaviour
     private delegate void MidiCallBack(int handle, int msg,
        int instance, int param1, int param2);
 
-* Enter the rest of you code here *
+**Enter the rest of your code here**
 
     [StructLayout(LayoutKind.Sequential)]
     public struct MidiOutCaps
@@ -140,7 +140,7 @@ public class Play_midi : MonoBehaviour
 
 }
 ```
-
+Your going to need the P/Invoke definitions(top of the 
 
 do a dropdown menu --> change the size of ball and the height of the hoop
 make astetics to make it more real
@@ -148,11 +148,11 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM5ODM3OTksMjA3MzE5NDQzLDMwNj
-Y0NzI1NSwxMjE2MzIyNDMsMTg5NDczNzU4LDc4OTMwNjc2Myw3
-OTI0MzA2NzEsMTQxMjM4OTU0NCwxNjY0Nzk1ODI1LDM3NzI2Nz
-Y2NCwxNjY0Nzk1ODI1LDI5Mzk0NjEyLC0yMDMzMTMzMzcwLDU2
-ODk2OTkwNiwtOTc0NzA3NzI0LDY2NDQzNTMzOCwtMTc4MjYyOT
-E5OCw0MTI0NzcwMjgsNjU3NDg1MTYwLC0xMjgzMDg5NzU1XX0=
+eyJoaXN0b3J5IjpbMTE1NDg4NzQwNCwyMDczMTk0NDMsMzA2Nj
+Q3MjU1LDEyMTYzMjI0MywxODk0NzM3NTgsNzg5MzA2NzYzLDc5
+MjQzMDY3MSwxNDEyMzg5NTQ0LDE2NjQ3OTU4MjUsMzc3MjY3Nj
+Y0LDE2NjQ3OTU4MjUsMjkzOTQ2MTIsLTIwMzMxMzMzNzAsNTY4
+OTY5OTA2LC05NzQ3MDc3MjQsNjY0NDM1MzM4LC0xNzgyNjI5MT
+k4LDQxMjQ3NzAyOCw2NTc0ODUxNjAsLTEyODMwODk3NTVdfQ==
 
 -->
