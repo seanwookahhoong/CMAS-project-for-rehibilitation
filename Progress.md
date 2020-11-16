@@ -152,7 +152,7 @@ Console.ReadLine();  // Pause until return is pressed
 res =  Mci("close music");
 ```
 Boom! you just played a MIDI file! Now, in order to play a single note, you have to read the tutorial:) 
-Though, one thing the tutorial does not teach you is that you have to use an
+Though, one thing the tutorial does not teach you is that you have to use the IEnumerator class in "System.Collections"
 
 do a dropdown menu --> change the size of ball and the height of the hoop
 make astetics to make it more real
@@ -160,10 +160,10 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzgwNzQwNSwxMDU0NTAwMzk0LDIwNz
-MxOTQ0MywzMDY2NDcyNTUsMTIxNjMyMjQzLDE4OTQ3Mzc1OCw3
-ODkzMDY3NjMsNzkyNDMwNjcxLDE0MTIzODk1NDQsMTY2NDc5NT
-gyNSwzNzcyNjc2NjQsMTY2NDc5NTgyNSwyOTM5NDYxMiwtMjAz
-MzEzMzM3MCw1Njg5Njk5MDYsLTk3NDcwNzcyNCw2NjQ0MzUzMz
-gsLTE3ODI2MjkxOTgsNDEyNDc3MDI4LDY1NzQ4NTE2MF19
+eyJoaXN0b3J5IjpbMTEzNzc1NjY1LDEwNTQ1MDAzOTQsMjA3Mz
+E5NDQzLDMwNjY0NzI1NSwxMjE2MzIyNDMsMTg5NDczNzU4LDc4
+OTMwNjc2Myw3OTI0MzA2NzEsMTQxMjM4OTU0NCwxNjY0Nzk1OD
+I1LDM3NzI2NzY2NCwxNjY0Nzk1ODI1LDI5Mzk0NjEyLC0yMDMz
+MTMzMzcwLDU2ODk2OTkwNiwtOTc0NzA3NzI0LDY2NDQzNTMzOC
+wtMTc4MjYyOTE5OCw0MTI0NzcwMjgsNjU3NDg1MTYwXX0=
 -->
