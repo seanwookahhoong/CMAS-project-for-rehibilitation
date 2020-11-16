@@ -118,146 +118,6 @@ public class Play_midi : MonoBehaviour
     private delegate void MidiCallBack(int handle, int msg,
        int instance, int param1, int param2);
 
-    static string Mci(string command)
-    {
-        int returnLength = 256;
-        StringBuilder reply = new StringBuilder(returnLength);
-        mciSendString(command, reply, returnLength, IntPtr.Zero);
-        return reply.ToString();
-    }
-
-    public void Awake()
-    {
-        Debug.Log("ActiveKeyB");
-        handle = 0;
-        var res = midiOutOpen(ref handle, 0, null, 0, 0);
-
-        /*command = string.Format("open \"C:/Users/Administrator/Documents/InhouseIntern/PractiseMidi/JINGLEBE.MID\" alias music");
-       mciSendString(command, null, 0, IntPtr.Zero);
-       var numDevs = midiOutGetNumDevs();*/
-
-        
-       
-        
-
-        MidiOutCaps myCaps = new MidiOutCaps();
-        res = midiOutGetDevCaps(0, ref myCaps, (System.UInt32)Marshal.SizeOf(myCaps));
-
-
-    }
-
-    void Start()
-    {
- 
-        
-
-        var res = String.Empty;
-
-        Debug.Log("Pressed");
-
-        res = Mci("open \"C:/Songs_basketball/JINGLEBE.MID \" alias music");
-        res = Mci("play music");
-
-        Console.ReadLine();
-
-        res = Mci("close music");
-
-        
-    
-
-    }
-
-    
-
-    
-    
-    public void Play()
-    {
-         command = "Play music";
-        mciSendString(command, null, 0, IntPtr.Zero);
-        Console.ReadLine();
-        Debug.Log("Pressed");
-    }
-
-
-   /* public void PlayMidi()
-    {
-        var res = String.Empty;
-        
-        Debug.Log("Pressed");
-
-        res = Mci("Open \"C:/Users/Administrator/Documents/InhouseIntern/PractiseMidi/JINGLEBE.MID \" alias music");
-        res = Mci("play music");
-        
-       Console.ReadLine();
-        
-        res = Mci("close music");
-        
-    }*/
-
-
-
-    public void ActivatekeyC()
-    {
-        
-        Debug.Log("ActiveKey");
-        res = midiOutShortMsg(handle, 0x007F3B90);
-        StartCoroutine(TestSound(res, handle));
-        
-        //res = midiOutShortMsg(handle, 0x007F2A90);
-        //StartCoroutine(TestSound(res, handle));
-    }
-    public void ActivatekeyD()
-    {
-
-        Debug.Log("ActiveKey");
-        res = midiOutShortMsg(handle, 0x007F3A90);
-        StartCoroutine(TestSound(res, handle));
-    }
-    public void ActivatekeyG()
-    {
-
-        Debug.Log("ActiveKey");
-        res = midiOutShortMsg(handle, 0x007F2690);
-        StartCoroutine(TestSound(res, handle));
-    }
-    public void ActivatekeyA()
-    {
-
-        Debug.Log("ActiveKey");
-        res = midiOutShortMsg(handle, 0x007F5090);
-        StartCoroutine(TestSound(res, handle));
-    }
-    public void ActivatekeyB()
-    {
-
-        Debug.Log("ActiveKey");
-        res = midiOutShortMsg(handle, 0x007F2A90);
-        StartCoroutine(TestSound(res, handle));
-    }
-
-
-    public void update ()
-    {
-        ActivatekeyC();
-        ActivatekeyD();
-        ActivatekeyG();
-        ActivatekeyA();
-        ActivatekeyB();
-    }
-
-    public void OnDestroy()
-    {
-
-
-        res = midiOutClose(handle);
-    }
-
-    IEnumerator TestSound(int res,int handle)
-    {
-        yield return new WaitForSeconds(10);
-    }
-
     [StructLayout(LayoutKind.Sequential)]
     public struct MidiOutCaps
     {
@@ -286,11 +146,10 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjQ4MDUwNSwyMDczMTk0NDMsMzA2Nj
-Q3MjU1LDEyMTYzMjI0MywxODk0NzM3NTgsNzg5MzA2NzYzLDc5
-MjQzMDY3MSwxNDEyMzg5NTQ0LDE2NjQ3OTU4MjUsMzc3MjY3Nj
-Y0LDE2NjQ3OTU4MjUsMjkzOTQ2MTIsLTIwMzMxMzMzNzAsNTY4
-OTY5OTA2LC05NzQ3MDc3MjQsNjY0NDM1MzM4LC0xNzgyNjI5MT
-k4LDQxMjQ3NzAyOCw2NTc0ODUxNjAsLTEyODMwODk3NTVdfQ==
-
+eyJoaXN0b3J5IjpbNDgyMDA3ODQxLDIwNzMxOTQ0MywzMDY2ND
+cyNTUsMTIxNjMyMjQzLDE4OTQ3Mzc1OCw3ODkzMDY3NjMsNzky
+NDMwNjcxLDE0MTIzODk1NDQsMTY2NDc5NTgyNSwzNzcyNjc2Nj
+QsMTY2NDc5NTgyNSwyOTM5NDYxMiwtMjAzMzEzMzM3MCw1Njg5
+Njk5MDYsLTk3NDcwNzcyNCw2NjQ0MzUzMzgsLTE3ODI2MjkxOT
+gsNDEyNDc3MDI4LDY1NzQ4NTE2MCwtMTI4MzA4OTc1NV19
 -->
