@@ -79,7 +79,7 @@ With our final slides ready, we just had to wait for the persenatation with the 
 ### Midi Code``(Tutorial)``
 Check out [this website](https://www.codeguru.com/columns/dotnet/making-music-with-midi-and-c.html) on how you should do midi code 
 It can be very confusing and basically the format for your midi code should be:
-``
+```
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -90,16 +90,6 @@ using UnityEngine;
 
 public class Play_midi : MonoBehaviour
 {
-    // Start is called before the first frame update
-    
-        
-
-    // Update is called once per frame
-    
-    int handle;
-    int res;
-    string command;
-   
     // MCI INterface
     [DllImport("winmm.dll")]
     private static extern long mciSendString(string command,
@@ -287,7 +277,7 @@ public class Play_midi : MonoBehaviour
     }
 
 }
-``
+```
 
 
 do a dropdown menu --> change the size of ball and the height of the hoop
@@ -296,10 +286,11 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzNTMwNjgwLDIwNzMxOTQ0MywzMDY2ND
-cyNTUsMTIxNjMyMjQzLDE4OTQ3Mzc1OCw3ODkzMDY3NjMsNzky
-NDMwNjcxLDE0MTIzODk1NDQsMTY2NDc5NTgyNSwzNzcyNjc2Nj
-QsMTY2NDc5NTgyNSwyOTM5NDYxMiwtMjAzMzEzMzM3MCw1Njg5
-Njk5MDYsLTk3NDcwNzcyNCw2NjQ0MzUzMzgsLTE3ODI2MjkxOT
-gsNDEyNDc3MDI4LDY1NzQ4NTE2MCwtMTI4MzA4OTc1NV19
+eyJoaXN0b3J5IjpbMjA5MjQ4MDUwNSwyMDczMTk0NDMsMzA2Nj
+Q3MjU1LDEyMTYzMjI0MywxODk0NzM3NTgsNzg5MzA2NzYzLDc5
+MjQzMDY3MSwxNDEyMzg5NTQ0LDE2NjQ3OTU4MjUsMzc3MjY3Nj
+Y0LDE2NjQ3OTU4MjUsMjkzOTQ2MTIsLTIwMzMxMzMzNzAsNTY4
+OTY5OTA2LC05NzQ3MDc3MjQsNjY0NDM1MzM4LC0xNzgyNjI5MT
+k4LDQxMjQ3NzAyOCw2NTc0ODUxNjAsLTEyODMwODk3NTVdfQ==
+
 -->
