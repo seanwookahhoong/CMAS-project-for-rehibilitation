@@ -151,7 +151,8 @@ res =  Mci("play music");
 Console.ReadLine();  // Pause until return is pressed
 res =  Mci("close music");
 ```
-Boom! you just played a MIDI file! Now, in order to play a single note, you have to read the tutorial:)
+Boom! you just played a MIDI file! Now, in order to play a single note, you have to read the tutorial:) 
+Though, one thing the tutorial does not teach you is that you have to use an
 
 do a dropdown menu --> change the size of ball and the height of the hoop
 make astetics to make it more real
@@ -159,7 +160,7 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjMwMzkwNCwxMDU0NTAwMzk0LDIwNz
+eyJoaXN0b3J5IjpbMTA2NzgwNzQwNSwxMDU0NTAwMzk0LDIwNz
 MxOTQ0MywzMDY2NDcyNTUsMTIxNjMyMjQzLDE4OTQ3Mzc1OCw3
 ODkzMDY3NjMsNzkyNDMwNjcxLDE0MTIzODk1NDQsMTY2NDc5NT
 gyNSwzNzcyNjc2NjQsMTY2NDc5NTgyNSwyOTM5NDYxMiwtMjAz
