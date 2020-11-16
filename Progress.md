@@ -155,15 +155,16 @@ Boom! you just played a MIDI file! Now, in order to play a single note, you have
 Though, one thing the tutorial does not teach you is that you have to use the IEnumerator class in "System.Collections" to delay rhe time the function is active.
 Let me give you an example, lets say I want to play the note B, in order to do that I have to do this:
 ```   
-public void ActivatekeyB()
+	public void ActivatekeyB()
     {
-        Debug.Log("ActiveKey");
-        res = midiOutShortMsg(handle, 0x007F2A90);
-        StartCoroutine(TestSound(res, handle));
+        Debug.Log("ActiveKey"); // To check whether the function is called
+        res = midiOutShortMsg(handle, 0x007F2A90); // Tell your MIDI device to play the note
+        StartCoroutine(TestSound(res, handle)); // Calling the Test sound function below
     }
-IEnumerator TestSound(int res,int handle)
+    
+	IEnumerator TestSound(int res,int handle)
     {
-        yield return new WaitForSeconds(10);
+        yield return new WaitForSeconds(10); // This deplays the function being played
     }
 ```
 
@@ -174,7 +175,7 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NDQ0NjY4MywxMDU0NTAwMzk0LDIwNz
+eyJoaXN0b3J5IjpbLTQ0MTI5OTE2NiwxMDU0NTAwMzk0LDIwNz
 MxOTQ0MywzMDY2NDcyNTUsMTIxNjMyMjQzLDE4OTQ3Mzc1OCw3
 ODkzMDY3NjMsNzkyNDMwNjcxLDE0MTIzODk1NDQsMTY2NDc5NT
 gyNSwzNzcyNjc2NjQsMTY2NDc5NTgyNSwyOTM5NDYxMiwtMjAz
