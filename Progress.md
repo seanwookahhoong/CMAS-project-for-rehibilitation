@@ -153,7 +153,19 @@ res =  Mci("close music");
 ```
 Boom! you just played a MIDI file! Now, in order to play a single note, you have to read the tutorial:) 
 Though, one thing the tutorial does not teach you is that you have to use the IEnumerator class in "System.Collections" to delay rhe time the function is active.
-Let me give you an example, lets say I want to play the note B,
+Let me give you an example, lets say I want to play the note B, in order to do that I have to do this:
+```   
+public void ActivatekeyB()
+    {
+        Debug.Log("ActiveKey");
+        res = midiOutShortMsg(handle, 0x007F2A90);
+        StartCoroutine(TestSound(res, handle));
+    }
+IEnumerator TestSound(int res,int handle)
+    {
+        yield return new WaitForSeconds(10);
+    }
+```
 
 
 do a dropdown menu --> change the size of ball and the height of the hoop
@@ -162,10 +174,10 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjgxNjIyLDEwNTQ1MDAzOTQsMjA3Mz
-E5NDQzLDMwNjY0NzI1NSwxMjE2MzIyNDMsMTg5NDczNzU4LDc4
-OTMwNjc2Myw3OTI0MzA2NzEsMTQxMjM4OTU0NCwxNjY0Nzk1OD
-I1LDM3NzI2NzY2NCwxNjY0Nzk1ODI1LDI5Mzk0NjEyLC0yMDMz
-MTMzMzcwLDU2ODk2OTkwNiwtOTc0NzA3NzI0LDY2NDQzNTMzOC
-wtMTc4MjYyOTE5OCw0MTI0NzcwMjgsNjU3NDg1MTYwXX0=
+eyJoaXN0b3J5IjpbLTY2NDQ0NjY4MywxMDU0NTAwMzk0LDIwNz
+MxOTQ0MywzMDY2NDcyNTUsMTIxNjMyMjQzLDE4OTQ3Mzc1OCw3
+ODkzMDY3NjMsNzkyNDMwNjcxLDE0MTIzODk1NDQsMTY2NDc5NT
+gyNSwzNzcyNjc2NjQsMTY2NDc5NTgyNSwyOTM5NDYxMiwtMjAz
+MzEzMzM3MCw1Njg5Njk5MDYsLTk3NDcwNzcyNCw2NjQ0MzUzMz
+gsLTE3ODI2MjkxOTgsNDEyNDc3MDI4LDY1NzQ4NTE2MF19
 -->
