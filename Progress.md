@@ -77,7 +77,7 @@ We went to improve our slides, we put one or two research papers and did slide f
 With our final slides ready, we just had to wait for the persenatation with the director of our school
 
 ### Midi Code``(Tutorial)``
-Check out [this website](https://www.codeguru.com/columns/dotnet/making-music-with-midi-and-c.html) on how you should do midi code 
+Check out [this website page](https://www.codeguru.com/columns/dotnet/making-music-with-midi-and-c.html) on how you should do midi code 
 It can be very confusing and basically the format for your midi code should be:
 ```
 using System;
@@ -145,6 +145,13 @@ Your going to need the P/Invoke definitions(top of the line rest of your code) a
 To give you a head start, to play a MIDI file using the unity editor,
 in between the P/Invoke definitions and the class, just write:
 ```
+var res =  String.Empty;
+res =  Mci("open \"M:\\anger.mid\" alias music");
+res =  Mci("play music");
+Console.ReadLine();  // Pause until return is pressed
+res =  Mci("close music");
+```
+
 
 do a dropdown menu --> change the size of ball and the height of the hoop
 make astetics to make it more real
@@ -152,10 +159,10 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzMzMDE5MCwxMDU0NTAwMzk0LDIwNz
-MxOTQ0MywzMDY2NDcyNTUsMTIxNjMyMjQzLDE4OTQ3Mzc1OCw3
-ODkzMDY3NjMsNzkyNDMwNjcxLDE0MTIzODk1NDQsMTY2NDc5NT
-gyNSwzNzcyNjc2NjQsMTY2NDc5NTgyNSwyOTM5NDYxMiwtMjAz
-MzEzMzM3MCw1Njg5Njk5MDYsLTk3NDcwNzcyNCw2NjQ0MzUzMz
-gsLTE3ODI2MjkxOTgsNDEyNDc3MDI4LDY1NzQ4NTE2MF19
+eyJoaXN0b3J5IjpbNTc2MzA0NjQ0LDEwNTQ1MDAzOTQsMjA3Mz
+E5NDQzLDMwNjY0NzI1NSwxMjE2MzIyNDMsMTg5NDczNzU4LDc4
+OTMwNjc2Myw3OTI0MzA2NzEsMTQxMjM4OTU0NCwxNjY0Nzk1OD
+I1LDM3NzI2NzY2NCwxNjY0Nzk1ODI1LDI5Mzk0NjEyLC0yMDMz
+MTMzMzcwLDU2ODk2OTkwNiwtOTc0NzA3NzI0LDY2NDQzNTMzOC
+wtMTc4MjYyOTE5OCw0MTI0NzcwMjgsNjU3NDg1MTYwXX0=
 -->
