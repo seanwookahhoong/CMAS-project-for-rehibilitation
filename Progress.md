@@ -141,7 +141,7 @@ public class Play_midi : MonoBehaviour
 }
 ```
 Your going to need the P/Invoke definitions(top of the line rest of your code) and you need the MidiOutCaps class(if you don't know what a class is pls redo the tutorials I made). You can follow the website that I linked to earlier but its cucial to understand how MIDI works first to make sure that this project won't be so hard.
-The tutorial above  
+The tutorial above has copy and paste code to let you play a song for the unity editor but you would need to do a little something to make sure that you are going to hear the no 
 
 do a dropdown menu --> change the size of ball and the height of the hoop
 make astetics to make it more real
@@ -149,7 +149,7 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NzMzNjU5OCwyMDczMTk0NDMsMzA2Nj
+eyJoaXN0b3J5IjpbLTcwNDQ0OTM1OCwyMDczMTk0NDMsMzA2Nj
 Q3MjU1LDEyMTYzMjI0MywxODk0NzM3NTgsNzg5MzA2NzYzLDc5
 MjQzMDY3MSwxNDEyMzg5NTQ0LDE2NjQ3OTU4MjUsMzc3MjY3Nj
 Y0LDE2NjQ3OTU4MjUsMjkzOTQ2MTIsLTIwMzMxMzMzNzAsNTY4
