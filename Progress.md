@@ -152,7 +152,9 @@ Console.ReadLine();  // Pause until return is pressed
 res =  Mci("close music");
 ```
 Boom! you just played a MIDI file! Now, in order to play a single note, you have to read the tutorial:) 
-Though, one thing the tutorial does not teach you is that you have to use the IEnumerator class in "System.Collections"
+Though, one thing the tutorial does not teach you is that you have to use the IEnumerator class in "System.Collections" to delay rhe time the function is active.
+Let me give you an example, lets say I want to play the note B,
+
 
 do a dropdown menu --> change the size of ball and the height of the hoop
 make astetics to make it more real
@@ -160,7 +162,7 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzc1NjY1LDEwNTQ1MDAzOTQsMjA3Mz
+eyJoaXN0b3J5IjpbLTkxMjgxNjIyLDEwNTQ1MDAzOTQsMjA3Mz
 E5NDQzLDMwNjY0NzI1NSwxMjE2MzIyNDMsMTg5NDczNzU4LDc4
 OTMwNjc2Myw3OTI0MzA2NzEsMTQxMjM4OTU0NCwxNjY0Nzk1OD
 I1LDM3NzI2NzY2NCwxNjY0Nzk1ODI1LDI5Mzk0NjEyLC0yMDMz
