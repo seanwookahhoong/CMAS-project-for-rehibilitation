@@ -169,7 +169,7 @@ Let me give you an example, lets say I want to play the note B, in order to do t
 ```
 Thats it for this tutorial, see ya next time!
 
-# Week 5
+# Week 5-6
 
 do a dropdown menu --> change the size of ball and the height of the hoop
 make astetics to make it more real
@@ -177,7 +177,7 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTA5MzEyOCwxMDU0NTAwMzk0LDIwNz
+eyJoaXN0b3J5IjpbLTkyNDMyNjY3MywxMDU0NTAwMzk0LDIwNz
 MxOTQ0MywzMDY2NDcyNTUsMTIxNjMyMjQzLDE4OTQ3Mzc1OCw3
 ODkzMDY3NjMsNzkyNDMwNjcxLDE0MTIzODk1NDQsMTY2NDc5NT
 gyNSwzNzcyNjc2NjQsMTY2NDc5NTgyNSwyOTM5NDYxMiwtMjAz
