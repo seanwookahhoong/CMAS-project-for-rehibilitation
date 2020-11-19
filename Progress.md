@@ -171,16 +171,19 @@ Thats it for this tutorial, see ya next time!
 
 # Week 5-6
 
+
+
 do a dropdown menu --> change the size of ball and the height of the hoop
 make astetics to make it more real
 fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNDMyNjY3MywxMDU0NTAwMzk0LDIwNz
-MxOTQ0MywzMDY2NDcyNTUsMTIxNjMyMjQzLDE4OTQ3Mzc1OCw3
-ODkzMDY3NjMsNzkyNDMwNjcxLDE0MTIzODk1NDQsMTY2NDc5NT
-gyNSwzNzcyNjc2NjQsMTY2NDc5NTgyNSwyOTM5NDYxMiwtMjAz
-MzEzMzM3MCw1Njg5Njk5MDYsLTk3NDcwNzcyNCw2NjQ0MzUzMz
-gsLTE3ODI2MjkxOTgsNDEyNDc3MDI4LDY1NzQ4NTE2MF19
+eyJoaXN0b3J5IjpbMTkzNzk0OTY0MywtOTI0MzI2NjczLDEwNT
+Q1MDAzOTQsMjA3MzE5NDQzLDMwNjY0NzI1NSwxMjE2MzIyNDMs
+MTg5NDczNzU4LDc4OTMwNjc2Myw3OTI0MzA2NzEsMTQxMjM4OT
+U0NCwxNjY0Nzk1ODI1LDM3NzI2NzY2NCwxNjY0Nzk1ODI1LDI5
+Mzk0NjEyLC0yMDMzMTMzMzcwLDU2ODk2OTkwNiwtOTc0NzA3Nz
+I0LDY2NDQzNTMzOCwtMTc4MjYyOTE5OCw0MTI0NzcwMjhdfQ==
+
 -->
