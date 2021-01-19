@@ -2,7 +2,8 @@
 This is my reflection when doing this project so it is going to have my thoughts on what I felt about the project.
 I will be splitting the progress report by weeks, then I will further split between my reflections and the actual how to-dos for future reference or future interns. I will be marking the how to-dos with **``(Tutorial)``** so you don't have to read the whole document. FInally, very important dsiclaimer, I highly recomend you to learn much more stuff about the unity engine as this stuff is very bare bones and is meant to help you to start understanding. I recomend you to check out the other unity tutorials to understand scripting and other stuff more.
 # IMPORTANT
-
+The password of the laptop is:
+the written password is iwanttoquitthisproject295 or the pin password is 372466
 # Week 0
 ## Reflections
 I was briefed about the project and I learned that I am going to make games and improve on existing ones that my seniors have already made for my Final year project.
@@ -181,11 +182,11 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTc2MDc2ODIsMTkzNzk0OTY0MywtOT
-I0MzI2NjczLDEwNTQ1MDAzOTQsMjA3MzE5NDQzLDMwNjY0NzI1
-NSwxMjE2MzIyNDMsMTg5NDczNzU4LDc4OTMwNjc2Myw3OTI0Mz
-A2NzEsMTQxMjM4OTU0NCwxNjY0Nzk1ODI1LDM3NzI2NzY2NCwx
-NjY0Nzk1ODI1LDI5Mzk0NjEyLC0yMDMzMTMzMzcwLDU2ODk2OT
-kwNiwtOTc0NzA3NzI0LDY2NDQzNTMzOCwtMTc4MjYyOTE5OF19
+eyJoaXN0b3J5IjpbMTE3MDUyNDg4MywxOTM3OTQ5NjQzLC05Mj
+QzMjY2NzMsMTA1NDUwMDM5NCwyMDczMTk0NDMsMzA2NjQ3MjU1
+LDEyMTYzMjI0MywxODk0NzM3NTgsNzg5MzA2NzYzLDc5MjQzMD
+Y3MSwxNDEyMzg5NTQ0LDE2NjQ3OTU4MjUsMzc3MjY3NjY0LDE2
+NjQ3OTU4MjUsMjkzOTQ2MTIsLTIwMzMxMzMzNzAsNTY4OTY5OT
+A2LC05NzQ3MDc3MjQsNjY0NDM1MzM4LC0xNzgyNjI5MTk4XX0=
 
 -->
