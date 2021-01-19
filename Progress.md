@@ -1,6 +1,7 @@
 # DISCLAIMER
 This is my reflection when doing this project so it is going to have my thoughts on what I felt about the project.
-I will be splitting the progress report by weeks, then I will further split between my reflections and the actual how to-dos for future reference or future interns. I will be marking the how to-dos with **``(Tutorial)``** so you don't have to read the whole document. FInally, very important dsiclaimer, I highly recomend you to learn much more stuff about the unity engine as this stuff is very bare bones and is meant to help you to start understanding. I recomend you to check out the other unity tutorials to understand scripting and other stuff more
+I will be splitting the progress report by weeks, then I will further split between my reflections and the actual how to-dos for future reference or future interns. I will be marking the how to-dos with **``(Tutorial)``** so you don't have to read the whole document. FInally, very important dsiclaimer, I highly recomend you to learn much more stuff about the unity engine as this stuff is very bare bones and is meant to help you to start understanding. I recomend you to check out the other unity tutorials to understand scripting and other stuff more.
+# IMPORTANT
 
 # Week 0
 ## Reflections
@@ -47,6 +48,7 @@ Username: ERunitymidicode
 Password: Iwanttoquitthisproject295
 After that, if the license is expired, you just renew it and say its a personal one.
 After your done with that there is nothing to do for the week
+
 
 # Week 1-2
 ## Reflections
@@ -179,11 +181,11 @@ fix the eternal falling ball problem
 optional: do set commands to move profuct?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzk0OTY0MywtOTI0MzI2NjczLDEwNT
-Q1MDAzOTQsMjA3MzE5NDQzLDMwNjY0NzI1NSwxMjE2MzIyNDMs
-MTg5NDczNzU4LDc4OTMwNjc2Myw3OTI0MzA2NzEsMTQxMjM4OT
-U0NCwxNjY0Nzk1ODI1LDM3NzI2NzY2NCwxNjY0Nzk1ODI1LDI5
-Mzk0NjEyLC0yMDMzMTMzMzcwLDU2ODk2OTkwNiwtOTc0NzA3Nz
-I0LDY2NDQzNTMzOCwtMTc4MjYyOTE5OCw0MTI0NzcwMjhdfQ==
+eyJoaXN0b3J5IjpbLTE1MTc2MDc2ODIsMTkzNzk0OTY0MywtOT
+I0MzI2NjczLDEwNTQ1MDAzOTQsMjA3MzE5NDQzLDMwNjY0NzI1
+NSwxMjE2MzIyNDMsMTg5NDczNzU4LDc4OTMwNjc2Myw3OTI0Mz
+A2NzEsMTQxMjM4OTU0NCwxNjY0Nzk1ODI1LDM3NzI2NzY2NCwx
+NjY0Nzk1ODI1LDI5Mzk0NjEyLC0yMDMzMTMzMzcwLDU2ODk2OT
+kwNiwtOTc0NzA3NzI0LDY2NDQzNTMzOCwtMTc4MjYyOTE5OF19
 
 -->
