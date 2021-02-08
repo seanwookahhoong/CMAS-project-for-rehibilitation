@@ -185,10 +185,10 @@ optional: do set commands to move profuct?
 
 
 
-hahaha week 22 time LOL doctor visit is to position the cofetti to explosion, give sizes of the balls and the hoop, have the sustian in the 
+hahaha week 22 time LOL doctor visit is to position the cofetti to explosion, give sizes of the balls and the hoop(5 levels), have the sustian in the picture game
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODg2MTUxOCwxMDY0MDEwMDEsMTkzNz
+eyJoaXN0b3J5IjpbLTUzMDA5MjMxMSwxMDY0MDEwMDEsMTkzNz
 k0OTY0MywtOTI0MzI2NjczLDEwNTQ1MDAzOTQsMjA3MzE5NDQz
 LDMwNjY0NzI1NSwxMjE2MzIyNDMsMTg5NDczNzU4LDc4OTMwNj
 c2Myw3OTI0MzA2NzEsMTQxMjM4OTU0NCwxNjY0Nzk1ODI1LDM3
