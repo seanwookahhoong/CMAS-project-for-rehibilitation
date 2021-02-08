@@ -180,13 +180,18 @@ do a dropdown menu --> change the size of ball and the height of the hoop
 make astetics to make it more real
 fix the eternal falling ball problem
 optional: do set commands to move profuct?
+
+
+
+
+
+hahaha week 22 time LOL doctor visit is to position the cofetti to explosion, give sizes of the balls and the hoop, have the sustian in the 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDAxMDAxLDE5Mzc5NDk2NDMsLTkyND
-MyNjY3MywxMDU0NTAwMzk0LDIwNzMxOTQ0MywzMDY2NDcyNTUs
-MTIxNjMyMjQzLDE4OTQ3Mzc1OCw3ODkzMDY3NjMsNzkyNDMwNj
-cxLDE0MTIzODk1NDQsMTY2NDc5NTgyNSwzNzcyNjc2NjQsMTY2
-NDc5NTgyNSwyOTM5NDYxMiwtMjAzMzEzMzM3MCw1Njg5Njk5MD
-YsLTk3NDcwNzcyNCw2NjQ0MzUzMzgsLTE3ODI2MjkxOThdfQ==
-
+eyJoaXN0b3J5IjpbMTY1ODg2MTUxOCwxMDY0MDEwMDEsMTkzNz
+k0OTY0MywtOTI0MzI2NjczLDEwNTQ1MDAzOTQsMjA3MzE5NDQz
+LDMwNjY0NzI1NSwxMjE2MzIyNDMsMTg5NDczNzU4LDc4OTMwNj
+c2Myw3OTI0MzA2NzEsMTQxMjM4OTU0NCwxNjY0Nzk1ODI1LDM3
+NzI2NzY2NCwxNjY0Nzk1ODI1LDI5Mzk0NjEyLC0yMDMzMTMzMz
+cwLDU2ODk2OTkwNiwtOTc0NzA3NzI0LDY2NDQzNTMzOF19
 -->
