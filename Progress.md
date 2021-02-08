@@ -179,19 +179,19 @@ Thats it for this tutorial, see ya next time!
 do a dropdown menu --> change the size of ball and the height of the hoop
 make astetics to make it more real
 fix the eternal falling ball problem
-optional: do set commands to move profuct?
+optional: do set commands to move product?
 
 
 
 
 
-hahaha week 22 time LOL doctor visit is to position the cofetti to explosion, give sizes of the balls and the hoop(5 levels), have the sustian in the picture game
+hahaha week 22 time LOL doctor visit is to position the cofetti to explosion, give sizes of the balls and the hoop(5 levels), have the sustian in the picture game, and add sounds to picture game?
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDA5MjMxMSwxMDY0MDEwMDEsMTkzNz
-k0OTY0MywtOTI0MzI2NjczLDEwNTQ1MDAzOTQsMjA3MzE5NDQz
-LDMwNjY0NzI1NSwxMjE2MzIyNDMsMTg5NDczNzU4LDc4OTMwNj
-c2Myw3OTI0MzA2NzEsMTQxMjM4OTU0NCwxNjY0Nzk1ODI1LDM3
-NzI2NzY2NCwxNjY0Nzk1ODI1LDI5Mzk0NjEyLC0yMDMzMTMzMz
-cwLDU2ODk2OTkwNiwtOTc0NzA3NzI0LDY2NDQzNTMzOF19
+eyJoaXN0b3J5IjpbOTk3OTA3NDMsMTA2NDAxMDAxLDE5Mzc5ND
+k2NDMsLTkyNDMyNjY3MywxMDU0NTAwMzk0LDIwNzMxOTQ0Mywz
+MDY2NDcyNTUsMTIxNjMyMjQzLDE4OTQ3Mzc1OCw3ODkzMDY3Nj
+MsNzkyNDMwNjcxLDE0MTIzODk1NDQsMTY2NDc5NTgyNSwzNzcy
+Njc2NjQsMTY2NDc5NTgyNSwyOTM5NDYxMiwtMjAzMzEzMzM3MC
+w1Njg5Njk5MDYsLTk3NDcwNzcyNCw2NjQ0MzUzMzhdfQ==
 -->
