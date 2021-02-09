@@ -185,13 +185,13 @@ optional: do set commands to move product?
 
 
 
-hahaha week 22 time LOL doctor visit is to position the cofetti to explosion, give sizes of the balls and the hoop(5 levels), have the sustian in the picture game, and add sounds to picture game?. Themes for the piano game. preview the pictures for the game
+hahaha week 22 time LOL doctor visit is to position the cofetti to explosion, give sizes of the balls and the hoop(5 levels), have the sustian in the picture game, and add sounds to picture game?. Themes for the piano game. preview the pictures for the game. 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTMxNjk0MiwxOTA3NTg1MDc2LDk5Nz
-kwNzQzLDEwNjQwMTAwMSwxOTM3OTQ5NjQzLC05MjQzMjY2NzMs
-MTA1NDUwMDM5NCwyMDczMTk0NDMsMzA2NjQ3MjU1LDEyMTYzMj
-I0MywxODk0NzM3NTgsNzg5MzA2NzYzLDc5MjQzMDY3MSwxNDEy
-Mzg5NTQ0LDE2NjQ3OTU4MjUsMzc3MjY3NjY0LDE2NjQ3OTU4Mj
-UsMjkzOTQ2MTIsLTIwMzMxMzMzNzAsNTY4OTY5OTA2XX0=
+eyJoaXN0b3J5IjpbNzc2NjY1MDg4LDEwNTkzMTY5NDIsMTkwNz
+U4NTA3Niw5OTc5MDc0MywxMDY0MDEwMDEsMTkzNzk0OTY0Mywt
+OTI0MzI2NjczLDEwNTQ1MDAzOTQsMjA3MzE5NDQzLDMwNjY0Nz
+I1NSwxMjE2MzIyNDMsMTg5NDczNzU4LDc4OTMwNjc2Myw3OTI0
+MzA2NzEsMTQxMjM4OTU0NCwxNjY0Nzk1ODI1LDM3NzI2NzY2NC
+wxNjY0Nzk1ODI1LDI5Mzk0NjEyLC0yMDMzMTMzMzcwXX0=
 -->
